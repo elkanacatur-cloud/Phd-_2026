@@ -1,48 +1,61 @@
-# Project Governance, Temporality & Megaprojects — Combined Systematic Literature Analysis (10 papers)
+# Project Governance, Temporality & Megaprojects — Combined Systematic Literature Analysis (14 papers)
 
 > Prepared for the PhD transfer report. Research question anchoring the reading:
 > **How does misalignment between electoral cycles and megaproject timelines shape
 > governance outcomes?**
 >
-> This document combines the first extraction (5 papers) with the second (5 papers)
-> into one master analysis of **ten** papers. Ordered chronologically:
+> This master document combines three extraction batches into one analysis of
+> **fourteen unique papers**. Ordered chronologically:
 >
-> 1. **Biesenthal & Wilden (2014)** — "Multi-level project governance: Trends and
->    opportunities," *IJPM* 32, pp. 1291–1308.
-> 2. **Biesenthal, Clegg, Mahalingam & Sankaran (2018)** — "Applying institutional
+> 1. **Müller (2009)** — "Governance of Project Management" (chapter), in *Project
+>    Governance*, Gower.
+> 2. **Sanderson (2012)** — "Risk, uncertainty and governance in megaprojects: A
+>    critical discussion of alternative explanations," *IJPM* 30, pp. 432–443.
+> 3. **Biesenthal & Wilden (2014)** — "Multi-level project governance," *IJPM* 32,
+>    pp. 1291–1308.
+> 4. **Biesenthal, Clegg, Mahalingam & Sankaran (2018)** — "Applying institutional
 >    theories to managing megaprojects," *IJPM* 36, pp. 43–54.
-> 3. **Livert, Gainza & Acuña (2019)** — "Paving the electoral way: Urban
->    infrastructure, partisan politics and civic engagement," *World Development*
->    124, art. 104628, pp. 1–14.
-> 4. **Qiu, Chen, Sheng & Cheng (2019)** — "Governance of institutional complexity
->    in megaproject organizations," *IJPM* 37, pp. 425–443.
-> 5. **Turner (2020)** — "Investigating how governmentality and governance influence
->    decision making on projects," *Project Leadership and Society* 1, art. 100003,
->    pp. 1–11.
-> 6. **Sainati, Locatelli, Smith, Brookes & Olver (2020)** — "Types and functions of
+> 5. **Livert, Gainza & Acuña (2019)** — "Paving the electoral way," *World
+>    Development* 124, art. 104628, pp. 1–14.
+> 6. **Qiu, Chen, Sheng & Cheng (2019)** — "Governance of institutional complexity in
+>    megaproject organizations," *IJPM* 37, pp. 425–443.
+> 7. **Turner (2020)** — "Investigating how governmentality and governance influence
+>    decision making on projects," *Project Leadership and Society* 1, art. 100003.
+> 8. **Sainati, Locatelli, Smith, Brookes & Olver (2020)** — "Types and functions of
 >    special purpose vehicles in infrastructure megaprojects," *IJPM* 38, pp. 243–255.
-> 7. **Brunet (2021)** — "Making sense of a governance framework for megaprojects:
->    The challenge of finding equilibrium," *IJPM* 39, pp. 406–416.
-> 8. **Winch & Sergeeva (2022)** — "Temporal structuring in project organizing: A
->    narrative perspective," *IJPM* 40, pp. 40–51.
-> 9. **Malherbe (2022)** — "Cooperating in interorganizational innovation projects:
->    Toward a better understanding of coupling with the permanent ecosystem," *IJPM*
->    40, pp. 871–885.
-> 10. **Ika, Söderlund & Pinto (2025)** — "It's time to take time seriously in the
+> 9. **Brunet (2021)** — "Making sense of a governance framework for megaprojects,"
+>    *IJPM* 39, pp. 406–416.
+> 10. **Winch & Sergeeva (2022)** — "Temporal structuring in project organizing," *IJPM*
+>     40, pp. 40–51.
+> 11. **Malherbe (2022)** — "Cooperating in interorganizational innovation projects,"
+>     *IJPM* 40, pp. 871–885.
+> 12. **Beck, Solansky, Davis, Ford-Eickhoff & Plowman (2024)** — "Boundary work and
+>     high-reliability organizing in interorganizational collaborations," *Information
+>     and Organization* 34, art. 100524.
+> 13. **Ika, Söderlund & Pinto (2025)** — "It's time to take time seriously in the
 >     theory of temporary organizations," *Scandinavian Journal of Management* 41,
->     art. 101403, pp. 1–13.
+>     art. 101403.
+> 14. **Delcayre & Bourdin (2025)** — "Beyond 'Not in my electoral Year': Why do some
+>     elected officials oppose renewable energy projects?," *Global Environmental
+>     Change* 92, art. 102998.
 >
-> Every quotation carries a page number. Where a paper does **not** address a
-> requested dimension (especially temporality), this is flagged explicitly.
+> **Duplicate flagged:** one uploaded file (`e62d7f41…S0956522125000089`) is a second
+> copy of **Ika, Söderlund & Pinto (2025)** (item 13) and is **not** counted twice.
+>
+> Every quotation carries a page number where the source pagination is reliable. The
+> Müller (2009) file is a scanned book chapter whose page markers are corrupted in the
+> MD, so it is cited by section/concept rather than page. Where a paper does **not**
+> address a requested dimension (especially temporality), this is flagged explicitly.
 >
 > **Reading the set as four clusters** (used in the synthesis):
-> - **Cluster A — Governance foundations & frameworks:** Biesenthal & Wilden (2014);
->   Turner (2020); Brunet (2021).
-> - **Cluster B — Megaprojects & institutional complexity:** Biesenthal et al. (2018);
->   Qiu et al. (2019); Sainati et al. (2020).
-> - **Cluster C — Temporality theory (RQ-critical):** Winch & Sergeeva (2022); Ika,
->   Söderlund & Pinto (2025); Malherbe (2022).
-> - **Cluster D — Electoral/political allocation:** Livert et al. (2019).
+> - **Cluster A — Governance foundations & frameworks:** Müller (2009); Biesenthal &
+>   Wilden (2014); Turner (2020); Brunet (2021).
+> - **Cluster B — Megaprojects & institutional complexity:** Sanderson (2012);
+>   Biesenthal et al. (2018); Qiu et al. (2019); Sainati et al. (2020).
+> - **Cluster C — Temporality & inter-organizational theory:** Winch & Sergeeva (2022);
+>   Malherbe (2022); Beck et al. (2024); Ika, Söderlund & Pinto (2025).
+> - **Cluster D — Electoral / political allocation (RQ-critical):** Livert et al. (2019);
+>   Delcayre & Bourdin (2025).
 
 ---
 
@@ -50,37 +63,45 @@
 
 The eight requested columns are split into two panels (A: definition, elements,
 stakeholders, decision-making; B: temporality, megaproject/inter-org coverage, gaps).
-The ten papers appear in the same chronological order in both panels.
+The fourteen papers appear in the same chronological order in both panels.
 
 ### Panel A — Definition · Elements · Stakeholders · Decision-Making
 
 | Paper (Author, Year) | Project Governance Definition (explicit) | Key Elements identified | Stakeholder Positioning (who decides / conflict resolution) | Decision-Making Framework |
 |---|---|---|---|---|
-| **Biesenthal & Wilden (2014)** | Synthesises three canonical definitions (Table 2, p. 1294). Turner (2009, p. 311): "The governance of a project involves a set of relationships between the project's management, its sponsor… its owner and other stakeholders. It provides the structure through which the objectives… are set, and the means of attaining those objectives and monitoring performance are determined." Plus PMI (2013, p. 579) and Müller (2009, p. 4). | "structure, process and role… combines processes, roles and accountabilities aimed at delivering projects" (p. 1300). Multi-level: project / PMO / parent (Table 4, p. 1304). Five theories: agency, TCE, stakeholder, stewardship, resource dependence. | Sponsor, owner, principal/agent, steward. Conflict resolution theory-dependent: agency→contracts/monitoring; stewardship→trust; stakeholder→"balancing the interests and claims of different stakeholders" (p. 1300). | Level-matched framework (Table 4): agency/TCE/RDT at project & PMO (short-term); stewardship/stakeholder at organizational (long-term). |
-| **Biesenthal et al. (2018)** | No explicit definition — reframes governance via **institutional theory**; governance/sponsorship = institutional-level concern (Morris & Geraldi, quoted p. 47). Megaproject via Flyvbjerg (2014, p. 6), quoted p. 44. | Scott's three pillars: regulative, normative, cultural-cognitive (p. 47); institutional logics; institutional entrepreneurs; embedded agency; "polycentric governance structures [that] obfuscate hierarchical decision making" (p. 49). | "widely disparate actors… who often have conflicting interests" (p. 45): "politicians as sponsors; bankers as creditors; communities as resistance" (p. 51). Conflict = institutional clash; "cognitive conflicts being the most difficult to resolve" (p. 47); resolved by institutional entrepreneurship crafting a "new order" (p. 49). | No prescriptive framework — a research agenda. "institutional work should precede technical work" (p. 43). Decision-making is episodic/contested. |
-| **Livert, Gainza & Acuña (2019)** | Does **not** define *project* governance. Concerns **urban/metropolitan governance** & distributive politics: allocation "affects the provision of local infrastructure and shapes the urban growth pattern" (p. 1). | Multilevel framework (local/regional/central); "one-tier and fragmented" metropolitan structure of 52 municipalities (p. 4); intergovernmental transfers; institutional design of allocation; social capital as accountability check. | Central government (disburser) + mayors (brokers); transfers are "a powerful instrument that politicians use to win, exercise, and retain power" (quoted p. 2). Conflict = electoral competition; resolution proposed via elected two-tier metro authority as "checks and balances" (p. 10). | Empirical, not normative: fixed-effects + GMM panel models; logic of core-vs-swing targeting and political budget cycles. |
-| **Qiu, Chen, Sheng & Cheng (2019)** | Explicit: governance "refers to all of the mechanisms within a project organization that broadly determine how resources are used and distributed… and resolve conflicts among its various embedded actors" (p. 427). | Institutional logics (governmental vs business); six complexity types — macro: regulatory/political/social; micro: cultural/relational/evolutionary (Table 2, p. 436). Four mechanisms: system leaders, localization, coordination hierarchies, flexible design (p. 438). | Four governments (Central/GDP/HKSAR/MSAR), designers, contractors, public (Fig. 1). "system leaders acted as a conflicting buffer" (p. 435); 5-level task + 4-level org hierarchy (p. 436). Macro→"constraint conflicts"; micro→"conflicts among organizational practices and identities" (p. 437). | Yes — inductive framework (Fig. 3, p. 438): complexity source→conflict type→mechanism. Centrally coordinated, multi-level, stage-dependent. |
-| **Turner (2020)** | Explicit 4-level model (p. 2): governmentality; the board (governance of project mgmt); project context (governance of projects); the project (project governance). Governance = "Framework for managers to do work: structures, policies, processes" (Table 2, after Müller 2019b). | Governmentality types (authoritarian/liberal/neo-liberal) × governance (sovereignty, control/trust mechanisms, paradigms). Six psychological constructs: culture, decision architecture, naturalistic decision-making, group working, identity, social representation (Table 1). | Board/sponsor set governmentality; project managers' sovereignty ranges "employee→manager→entrepreneur" (Table 3). Conflict handled via culture change, OECD principles (transparency/accountability/responsibility/fairness), stakeholder mgmt. Amsterdam case: shift principal-agency→stewardship. | Governance → decision-making → performance is the causal chain. Six case studies (LASCAD 1–4, Amsterdam metro, Swedish tunnel, ABS, CRM). |
-| **Sainati et al. (2020)** | Explicit, borrowed: "Project governance defines both the organisational structures and processes to govern the project… assigning project roles and responsibilities to project stakeholders" (p. 244). Focus: **formal governance** (contracting). Megaproject via Denicol et al. (2020, p. 1), quoted p. 244. | Special Purpose Vehicles as formal instruments; four SPV types (Project Companies, Industrial Vehicles, Intermediate SPVs, Jurisdictional Shell Companies); 15 functions (legal/contracting/organisational). Contracts' functions: "control, coordination, and adaptation" (p. 244). | Stakeholders = holders of "a legal, or contractual, claim" (quoted p. 244). SPVs "cluster multiple stakeholders under a common incorporated vehicle" (p. 247); lenders "retain significant controlling power" (p. 248). Conflict pre-empted via ring-fencing/risk channelling. | Grounded-theory functional classification; SPV/PC is the decision locus for finance & ownership. TCT-based. |
-| **Brunet (2021)** | Governance framework defined (Klakegg et al., 2008: S30, quoted p. 406): "an organized structure established as authoritative within the institution, comprising processes and rules established to ensure projects meet their purpose." Müller (2017, p. 5): governance "defines the framework (including the limitations) within which management is executed" (p. 407). | Three objectives: efficiency, legitimacy, accountability (Brunet & Aubry 2016). Multilevel: institutional↔legitimacy, organizational↔accountability, project↔efficiency (Fig. 2). Trust vs control mechanisms; sensemaking. | Project actors (management, teams, private, clients, experts). Ministers/Treasury Board/SQI/Council of ministers decide. Conflict = tensions *between* objectives/levels; "paradoxical tensions are quite common in project governance" (p. 412). Accountability "very, very systemic" (E02, p. 411). | Sensemaking + multilevel model. Governance framework treated as **public policy** with a policy cycle. Quebec case, 44 interviews. |
-| **Winch & Sergeeva (2022)** | **No** governance definition — a temporality/narrative paper. Temporary organization "defined by its objective temporality as being determinate" (p. 42). Project narratives = "coherent, performative narratives that project an intended future… subsequently filled in by project organizing" (p. 44). | Objective / subjective / **narrative** perspectives on time; projectivity; future-perfect thinking; temporal work (three types); project shaping vs delivery narratives; endgaming; life-cycle. | Actors = project champion, team of supporters, external stakeholders (financiers, regulators, suppliers, public). Alignment achieved by "convincing oneself; convincing the team; convincing stakeholders" (p. 40). "framing contests between teams" for resources (p. 46). | Not a decision framework — a theory of how futures are projected and mobilized. Eden Project vignette. |
-| **Malherbe (2022)** | **No** governance definition. Cooperation defined (Calamel et al., 2012, p. 50, quoted p. 872): "the stance or attitude of members themselves toward the project, their willingness (or reluctance) to work together." | Coupling (Orton & Weick): distinctiveness × responsiveness → loose/tight; temporary–permanent connection; contextual embeddedness; ecosystem as "wider permanent context" (p. 871); value creation/capture tensions. | 16 heterogeneous partners (multinationals, SMEs, academia) with "conflicting expectations" (p. 871). No hierarchical decider; cooperation oscillates fragmented↔community-based; conflict = value-capture "turf wars." Bottleneck resolution via interaction. | Process case study (31 months, 3 sequences); four propositions linking coupling strength to cooperative stance. |
-| **Ika, Söderlund & Pinto (2025)** | **No** governance definition — theory of temporary organizations. Temporary organization = "a set of organizational actors working together on a complex task over a limited period of time" (Bakker 2010, p. 468, quoted p. 2). | 4T framework (time/task/team/transition); three time streams — scarce resource (clock time), temporal structures (event time), processual flow (process time) (Table 2); entrainment; timing norms; temporal fit/misfit. | Actors have divergent temporal orientations & horizons; "project managers may have a short-term concern for timely delivery, project funders may have a longer-term perspective" (p. 2). Conflict = temporal tension, addressed by "temporal boundary-spanning" and synchronization. | Conceptual/theory-building; integrative time-based theory. No single decision model. |
+| **Müller (2009)** | No single-sentence definition in this chapter; governance of project management operationalised as balancing three forces — Education ("what can be done"), Management Demand ("what should be done"), Perceived Economic Pressure ("what is done"). | Three-step migration framework (Steps 1–3) of increasing project-management capability; measures: methodology, steering committees/sponsors, reviews/audits, certification, PMOs, mentoring, benchmarking, maturity models. Four governance paradigms (Conformist, Agile Pragmatist, Flexible Economist, Versatile Artist). | Two key roles: **the sponsor** (steering-group representative, "interested but sceptical") and **PMO members**. Central problem = the agency problem between sponsor and project manager; weak sponsors let PMs "manage them, thus reversing the intention of the project governance hierarchy." | Yes — the 3-step economic model (balance investment vs ROI in PM capability). Prescriptive/practitioner. |
+| **Sanderson (2012)** | Distinguishes **governance** ("forms of organization designed *ex ante*," p. 432) from **governing** ("spontaneous micro-processes of organizing emerging *ex post*," p. 432). Governance is "made order" (Chia & Holt), not spontaneous order. | Three explanation-types for megaproject underperformance (Table 3, p. 437): A strategic rent-seeking; B misaligned/underdeveloped governance; C diverse cultures & rationalities. Mechanisms: contracts, alliances, rendezvous clauses, KPIs, designed project culture, the PALT. | Politicians & contractors (Type A), sponsors/owners (Type B), all project participants (Type C). Conflict resolved differently per type: ex-ante accountability rules (A), robust flexible governance design (B), consciously designed collaborative culture (C). | Yes — a three-fold typology built on epistemological assumptions about decision-maker cognition (optimizing / optimizing-within-limits / satisficing) and views of the future (risk / uncertainty). |
+| **Biesenthal & Wilden (2014)** | Three canonical definitions (Table 2, p. 1294): Turner (2009, p. 311) — governance "provides the structure through which the objectives… are set, and the means of attaining those objectives and monitoring performance are determined"; PMI (2013, p. 579); Müller (2009, p. 4). | "structure, process and role… combines processes, roles and accountabilities aimed at delivering projects" (p. 1300). Multi-level: project/PMO/parent (Table 4). Five theories: agency, TCE, stakeholder, stewardship, resource dependence. | Sponsor, owner, principal/agent, steward. Conflict theory-dependent: agency→contracts; stewardship→trust; stakeholder→"balancing the interests and claims" (p. 1300). | Level-matched framework (Table 4): agency/TCE/RDT at project & PMO; stewardship/stakeholder at organizational level. |
+| **Biesenthal et al. (2018)** | No explicit definition — reframes via **institutional theory**. Megaproject via Flyvbjerg (2014, p. 6), quoted p. 44. | Scott's three pillars (regulative/normative/cultural-cognitive, p. 47); institutional logics; institutional entrepreneurs; embedded agency; "polycentric governance structures [that] obfuscate hierarchical decision making" (p. 49). | "widely disparate actors… conflicting interests" (p. 45). Conflict = institutional clash; "cognitive conflicts… most difficult to resolve" (p. 47); resolved by institutional entrepreneurship crafting a "new order" (p. 49). | No prescriptive framework — a research agenda; "institutional work should precede technical work" (p. 43). |
+| **Livert, Gainza & Acuña (2019)** | **No** project-governance definition — urban/metropolitan governance & distributive politics; allocation "affects the provision of local infrastructure and shapes the urban growth pattern" (p. 1). | Multilevel framework (local/regional/central); "one-tier and fragmented" metro of 52 municipalities (p. 4); intergovernmental transfers; social capital as accountability check. | Central government (disburser) + mayors (brokers); transfers "a powerful instrument that politicians use to win, exercise, and retain power" (quoted p. 2). Resolution proposed: elected two-tier metro authority as "checks and balances" (p. 10). | Empirical (fixed-effects + GMM); logic of core-vs-swing targeting & political budget cycles. |
+| **Qiu, Chen, Sheng & Cheng (2019)** | Explicit: governance "refers to all of the mechanisms within a project organization that broadly determine how resources are used and distributed… and resolve conflicts among its various embedded actors" (p. 427). | Institutional logics (governmental vs business); six complexity types (macro: regulatory/political/social; micro: cultural/relational/evolutionary, Table 2); four mechanisms: system leaders, localization, coordination hierarchies, flexible design (p. 438). | Four governments + designers/contractors/public. "system leaders acted as a conflicting buffer" (p. 435); 5-level task + 4-level org hierarchy (p. 436). | Yes — inductive framework (Fig. 3): complexity source→conflict type→mechanism. |
+| **Turner (2020)** | Explicit 4-level model (p. 2): governmentality; the board; project context; the project. Governance = "Framework for managers to do work" vs governmentality = "the way governors interact with those they govern" (Table 2). | Governmentality types (authoritarian/liberal/neo-liberal) × governance (sovereignty, control/trust, paradigms); six psychological constructs (culture, decision architecture, naturalistic decision-making, group working, identity, social representation). | Board sets governmentality; PM sovereignty "employee→manager→entrepreneur" (Table 3). Conflict via culture change, OECD principles, stewardship shift (Amsterdam case). | Governance→decision-making→performance causal chain; six case studies. |
+| **Sainati et al. (2020)** | Explicit, borrowed: "Project governance defines both the organisational structures and processes to govern the project… assigning project roles and responsibilities to project stakeholders" (p. 244). Focus: **formal governance** (contracting). | SPVs as formal instruments; four SPV types; 15 functions (legal/contracting/organisational). Contracts' functions: "control, coordination, and adaptation" (p. 244). | Stakeholders = holders of "a legal, or contractual, claim" (p. 244). SPVs "cluster multiple stakeholders" (p. 247); lenders "retain significant controlling power" (p. 248). Conflict pre-empted via ring-fencing. | Grounded-theory functional classification; SPV/PC is the decision locus. TCT-based. |
+| **Brunet (2021)** | Governance framework (Klakegg et al., 2008: S30, quoted p. 406): "an organized structure established as authoritative within the institution, comprising processes and rules established to ensure projects meet their purpose." | Three objectives: efficiency, legitimacy, accountability; multilevel mapping (institutional↔legitimacy, organizational↔accountability, project↔efficiency, Fig. 2); trust vs control; sensemaking. | Project actors (management/teams/private/clients/experts); ministers/Treasury Board/SQI decide. Conflict = tensions *between* objectives/levels; "paradoxical tensions are quite common" (p. 412). | Sensemaking + multilevel model; governance framework treated as **public policy** with a policy cycle. |
+| **Winch & Sergeeva (2022)** | **No** governance definition. Temporary org "defined by its objective temporality as being determinate" (p. 42); project narratives = "coherent, performative narratives that project an intended future… filled in by project organizing" (p. 44). | Objective/subjective/**narrative** time; projectivity; future-perfect thinking; temporal work (3 types); shaping vs delivery narratives; endgaming; life-cycle. | Project champion, team of supporters, external stakeholders (financiers/regulators/suppliers/public). Alignment via "convincing oneself; the team; stakeholders" (p. 40); "framing contests" (p. 46). | Not a decision framework — a theory of how futures are projected & mobilized. Eden vignette. |
+| **Malherbe (2022)** | **No** governance definition. Cooperation (Calamel et al., 2012, p. 50, quoted p. 872): "the stance or attitude of members themselves toward the project, their willingness (or reluctance) to work together." | Coupling (distinctiveness × responsiveness → loose/tight); temporary–permanent connection; contextual embeddedness; ecosystem as "wider permanent context"; value creation/capture tensions. | 16 heterogeneous partners with "conflicting expectations." No hierarchical decider; cooperation oscillates fragmented↔community-based; conflict = value-capture turf wars. | Process case study (3 sequences); four propositions linking coupling to cooperative stance. |
+| **Beck et al. (2024)** | **No** governance definition. High-reliability organizing (HRO) in temporary inter-org collaboration; boundary work = "purposeful… effort to influence the social, symbolic, material or temporal boundaries" (Langley et al., quoted p. 4). | Five HRO principles (preoccupation with failure, reluctance to simplify, sensitivity to operations, commitment to resilience, deference to expertise); four boundary types (physical/social/temporal/scope); boundary objects. | 120+ agencies (NASA/FEMA/DOD/EPA/TFS). Decisions via **deference to expertise** + twice-daily interagency meetings; conflict from siloed operations resolved by a shared boundary object (data-visualization system) + co-location. | Dynamic decision-making through modeling; HRO-principles frame; not a governance framework. |
+| **Ika, Söderlund & Pinto (2025)** | **No** governance definition — theory of temporary organizations. Temporary org = "a set of organizational actors working together on a complex task over a limited period of time" (Bakker 2010, p. 468, quoted p. 2). | 4T framework (time/task/team/transition); three time streams — scarce resource (clock time), temporal structures (event time), processual flow (process time); entrainment; timing norms; temporal fit/misfit. | Actors have divergent temporal orientations/horizons: "project managers may have a short-term concern for timely delivery, project funders may have a longer-term perspective" (p. 2). Conflict = temporal tension → temporal boundary-spanning. | Conceptual/theory-building; integrative time-based theory. |
+| **Delcayre & Bourdin (2025)** | **No** project-governance definition — energy-transition governance & local political agency in a multi-level (unitary French) system: "central government is the strong regulatory authority, while multiple levels of subnational government… are essential for policy implementation" (p. 1). | External / internal / personal constraint factors (Table 1); typology of resistance (Table 2): **NIMEY** (Not In My Electoral Year), **NIMTOO**, ideological. Structuration & embedded agency. | Local elected officials as **political mediators** who "interpret, mediate, and sometimes amplify" opposition (p. 6); central govt (regulator), developers, citizens. Resolution = political calculation over the electoral calendar. | Typology of political resistance; structuration theory (agency vs structure). 30 interviews + 50 press articles. |
 
 ### Panel B — Temporality · Megaproject/Inter-org Coverage · Gaps vs Temporal-Misalignment Research
 
 | Paper (Author, Year) | Temporality Discussion (Yes / No / Brief) | Megaproject / Inter-org Coverage | Gaps vs Temporal-Misalignment (electoral-vs-project) Research |
 |---|---|---|---|
-| **Biesenthal & Wilden (2014)** | **BRIEF / implicit.** Time = "temporary organization" nature + short-term (project) vs long-term (organizational) horizons (Table 4, p. 1304) + life cycle. **No** cycles, rhythm, entrainment, or external political time. | Partial: multi-level inter-org PBOs central; megaprojects a risk-heavy sub-case (p. 1303). Construction-dominated. | Large gap. Time is an internal level attribute; no exogenous electoral clock; no notion of horizon *misalignment*. Provides the level scaffolding only. |
-| **Biesenthal et al. (2018)** | **YES (strongest on horizon conflict).** "Duration: Time spans often extending beyond the political life cycle of a national government" (p. 45); institutional order "whose temporality may not last beyond the duration of the project" (p. 49); "reverse clocks" (p. 50); episodic shaping (p. 47). | **YES — core.** Megaprojects as institutionally-embedded, "multiple governance regimes over the duration of the project" (p. 45), disparate actors. | Closest fit; names the tension (duration > political cycle) but does **not** model *how* electoral turnover reshapes outcomes. Its 5 RQs (p. 49) invite exactly this study. |
-| **Livert, Gainza & Acuña (2019)** | **YES — but electoral/political time, not project time.** "political budget cycles" (p. 2); transfers rise "as the electoral race approaches" (p. 2); mayoral tenure/"Periods" (p. 7); fixed 4-yr calendar exogenous (p. 6). **No** project life-cycle/duration. | Inter-governmental & metropolitan, **not** megaproject. Many small urban grants. Strong multi-level (central–regional–local). | Mirror-image gap: models the electoral clock in detail but treats infrastructure as fungible spending, ignoring project *timelines*. Supplies the electoral mechanism a megaproject study can import. |
-| **Qiu, Chen, Sheng & Cheng (2019)** | **YES — moderate, project-internal.** "evolutionary complexity, because megaprojects are dynamic during their entire life cycle" (p. 425); system leaders "evolve during the different stages" (p. 437); "responses… are related to time" (p. 437); cites Dille & Söderlund temporal fit/misfit (pp. 427–428). | **YES — core.** HZMB US$9.2bn cross-border bridge; four governments; multi-level, cross-jurisdiction. | "political complexity" from "different governments' interests" (p. 425) borders electoral misalignment, but governments are *concurrent* jurisdictions, not electorally-refreshed bodies over the project life. |
-| **Turner (2020)** | **BRIEF–moderate, project-internal.** Culture/governmentality "changes as it progresses through different stages… from design to execution" (p. 7); "multiple governmentalities" over the project. **No** cycles/rhythm; **no** electoral time. | **No** (not megaproject-specific). Six mixed cases (IT/construction/org-change), incl. two construction (Amsterdam metro, Swedish tunnel). Some inter-org (Amsterdam city-council relationship). | Adds the *governance→decision→performance* mechanism and stage-varying governmentality, but no external electoral clock. Amsterdam case shows governance *restructuring* mid-project — a partial analogue. |
-| **Sainati et al. (2020)** | **NO / minimal.** Only: SPVs "liquidated when their functions have been accomplished… similar to contracts" (p. 252). **Explicitly flag: does not treat temporality** (no cycles/rhythm/phase/political time). | **YES — core.** Infrastructure megaprojects, PPP/PF, multiple organisations, cross-border jurisdictions. | Largest temporal gap of the megaproject papers. Governance = static legal-financial architecture; electoral clock and project timeline both absent. Useful only for the *formal-instrument* layer under political change. |
-| **Brunet (2021)** | **YES — moderate.** "dynamic aspects" of the framework; evolution/instability over time (p. 413); megaprojects "lasting several years" with changing actors (p. 413); governance-as-policy has a "policy cycle" (p. 407). Political dimension noted: "a project has a political dimension" (PT09, p. 410). **No** electoral-cycle analysis. | **YES — core.** Quebec public megaproject governance framework; commissioned by governments; multi-level (institutional/organizational/project). | Very relevant: legitimacy sits at the institutional/political level and elected ministers make commitments, but the *timing* of elections is not a variable. Supplies the efficiency–legitimacy–accountability tension a temporal study can perturb. |
-| **Winch & Sergeeva (2022)** | **YES — core (theory of project time).** Objective/subjective/narrative time; determinate temporality (p. 42); "time-pacing"; shaping vs delivery narratives across the life-cycle (pp. 46–47); temporal work. **No** electoral cycle; **not** governance-focused. | Partial. Megaprojects cited as ideal for naturalistic accounts (p. 46); Eden (large Millennium project) vignette. Inter-org via project coalition/stakeholders. | Provides the *narrative/temporal-work* apparatus for how actors project futures across time — directly usable to theorise how an electoral turnover forces a **re-narration** of a megaproject, but electoral time itself is absent. |
-| **Malherbe (2022)** | **YES — moderate.** Three sequences over 31 months; pace-of-work clash: "a huge gap between academia and industrials… another pace" (p. 880); funder deadlines & 4-month extension; temporary–permanent coupling evolves. **No** electoral time. | **Inter-org — core; not megaproject.** 16-partner mobile-services innovation project; ecosystem as permanent context. | Supplies the **temporary–permanent coupling** lens and pace-mismatch mechanism. An electorally-driven permanent context (government of the day) could be modelled as an ecosystem whose "requirements" shift on the electoral cycle. |
-| **Ika, Söderlund & Pinto (2025)** | **YES — core (dedicated temporality theory).** Three streams (clock/event/process time); entrainment = "establishing temporal fit between project activities and temporal demands imposed by the external environment" (Dille & Söderlund, quoted pp. 5–6); divergent horizons of managers vs funders (p. 2); "paradox of intertemporal choice" (p. 4); external events incl. "politics, government regulations" (p. 6). | Not megaproject-specific but notes "infrastructure megaprojects last for so many years that they blur the boundaries between temporary and permanent" (p. 3). Inter-org projects covered. | The **conceptual engine** for the RQ: gives the exact vocabulary (temporal misfit, entrainment to external cycles, divergent stakeholder horizons) but does not itself instantiate the electoral cycle. Fill by treating the electoral cycle as a *zeitgeber* the megaproject must (fail to) entrain to. |
+| **Müller (2009)** | **YES — a governance→time-horizon mechanism.** Perceived economic pressure "reduces the time horizon view of the project manager drastically… project managers tend to drastically shorten their time horizon… focus exclusively on their own short-term survival… with little or no regard to the longer term needs of the organization." Short-term goals vs "long-term client relationship." **No** cycles/electoral time. | Not megaproject-specific (mentions infrastructure/public-interest projects as audit triggers). Inter-org limited (PBO-internal). | Supplies a mechanism directly analogous to the RQ at the *manager* level: external pressure collapses the decision time-horizon. Extend from economic pressure to *electoral* pressure and from PM to sponsor/politician. |
+| **Sanderson (2012)** | **YES — moderate, and RQ-pointed.** Ex-ante governance vs ex-post governing is fundamentally temporal; each explanation "focuses on a different point in the project life-cycle" (p. 436); "future perfect strategy" discussed. **RQ-critical:** megaproject "lengthy time-frames… lack of proper accountability for project promoters, typically politicians, because they are often not in office when the actual viability of a project can be assessed. Getting a project approved will deliver significant political capital in the short-term" (p. 436). | **YES — core.** Megaprojects / large engineering projects; PPP/SPV; multi-stakeholder, decades-long assets. | Names the electoral-accountability gap (promoter out of office before viability is testable) but frames it as *rent-seeking incentive*, not as a recurring temporal-misfit driver over the project life. The governing-vs-governance move is exactly the lens for how governance *changes* mid-project. |
+| **Biesenthal & Wilden (2014)** | **BRIEF / implicit** — short-term (project) vs long-term (organizational) horizons (Table 4); life cycle. **No** cycles/rhythm/external clock. | Partial (multi-level PBOs; megaprojects a risk sub-case, p. 1303). | Time is an internal level attribute; no electoral clock; no horizon *misalignment*. Level scaffolding only. |
+| **Biesenthal et al. (2018)** | **YES — strong on horizon conflict.** "Duration: Time spans often extending beyond the political life cycle of a national government" (p. 45); "reverse clocks" (p. 50); episodic shaping (p. 47). | **YES — core.** | Names the duration-vs-political-cycle tension but does not model *how* electoral turnover reshapes outcomes. Its 5 RQs (p. 49) invite the study. |
+| **Livert, Gainza & Acuña (2019)** | **YES — electoral/political time, not project time.** Political budget cycles (p. 2); transfers rise "as the electoral race approaches"; tenure/"Periods" (p. 7); fixed 4-yr calendar (p. 6). **No** project timeline. | Inter-governmental & metropolitan; **not** megaproject. | Mirror-image gap: the electoral clock in detail, infrastructure as fungible spending. Supplies the electoral mechanism (core/swing, budget cycle) for import. |
+| **Qiu, Chen, Sheng & Cheng (2019)** | **YES — moderate, project-internal.** "evolutionary complexity… dynamic during their entire life cycle" (p. 425); system leaders "evolve during the different stages" (p. 437); cites Dille & Söderlund temporal fit/misfit. | **YES — core** (HZMB cross-border bridge). | "political complexity" borders electoral misalignment, but governments are concurrent jurisdictions, not electorally-refreshed. |
+| **Turner (2020)** | **BRIEF–moderate, project-internal.** Culture/governmentality "changes as it progresses… from design to execution" (p. 7); multiple governmentalities. **No** electoral time. | **No** (mixed IT/construction/change cases; two construction). Some inter-org. | Adds governance→decision→performance + stage-varying governmentality; Amsterdam = governance *restructuring* mid-project (partial analogue). No electoral clock. |
+| **Sainati et al. (2020)** | **NO / minimal** — SPVs "liquidated when… functions have been accomplished" (p. 252). **Flag: does not treat temporality.** | **YES — core** (PPP/PF megaprojects, cross-border). | Governance = static legal-financial architecture; electoral clock & timeline absent. Useful only for the formal-instrument layer under political change. |
+| **Brunet (2021)** | **YES — moderate.** "dynamic aspects"; framework evolution/instability (p. 413); megaprojects "lasting several years" with changing actors; policy cycle (p. 407); "a project has a political dimension" (PT09, p. 410). **No** electoral-cycle analysis. | **YES — core** (Quebec govt megaproject governance framework; multi-level). | Legitimacy sits at the institutional/political level & elected ministers commit, but election *timing* is not a variable. Supplies the efficiency–legitimacy–accountability tension to perturb. |
+| **Winch & Sergeeva (2022)** | **YES — core (theory of project time).** Objective/subjective/narrative time; determinate temporality (p. 42); shaping→delivery narratives across the life-cycle. **No** electoral cycle. | Partial (megaprojects cited; Eden vignette). Inter-org via coalition. | Provides the narrative/temporal-work apparatus for how a turnover forces a **re-narration**; electoral time itself absent. |
+| **Malherbe (2022)** | **YES — moderate.** Three sequences over 31 months; pace clash "a huge gap between academia and industrials… another pace" (p. 880); funder deadlines & extension; coupling evolves. **No** electoral time. | **Inter-org — core; not megaproject** (16-partner innovation ecosystem). | Supplies temporary–permanent **coupling** + pace-mismatch. An electorally-driven "permanent context" (government of the day) could be modelled as an ecosystem whose requirements shift on the cycle. |
+| **Beck et al. (2024)** | **YES — moderate.** Explicit **temporal boundaries** ("demarcations of time, speed, and sequencing," p. 3); "trichordal temporal… sensemaking" (past/present/future); time-horizon pressure (vegetation regrowth). **No** cyclical/electoral time. | **Inter-org — core; not megaproject** (120+ agencies, emergency response). | Contributes the inter-org **coordination + temporal-boundary + boundary-object** lens (the RQ's "coordination across multiple organizations/levels" concept). Peripheral to electoral misalignment. |
+| **Ika, Söderlund & Pinto (2025)** | **YES — core (dedicated temporality theory).** Three streams; entrainment = "temporal fit between project activities and temporal demands imposed by the external environment" (Dille & Söderlund, quoted pp. 5–6); manager-vs-funder horizons (p. 2); "paradox of intertemporal choice" (p. 4); external events incl. "politics, government regulations" (p. 6). | Not megaproject-specific; notes megaprojects "blur the boundaries between temporary and permanent" (p. 3). Inter-org covered. | The **conceptual engine**: temporal misfit, entrainment to external cycles, divergent horizons — but never instantiates the electoral cycle. Fill by treating the electoral cycle as a *zeitgeber* the megaproject fails to entrain to. |
+| **Delcayre & Bourdin (2025)** | **YES — CORE & explicitly electoral (the keystone).** Coins **NIMEY** ("Not In My Electoral Year"); "the benefits of energy transition programmes generally materialise in the medium to long term, whereas electoral mandates are short-lived. This **temporal misalignment** reinforces both NIMEY and NIMTOO behaviours" (p. 6); "you can almost predict when an election is coming based on how councillors start distancing themselves from energy projects" (p. 5); short-termism in governance. | **Inter-org / multi-level — core; large infrastructure, not $1bn megaproject** (wind/biogas; one "biogas megaproject" noted). | The **empirical instantiation of the RQ's mechanism** — but at the level of *local elected officials & renewable-energy projects*, not megaproject governance. The remaining gap: scale the NIMEY/temporal-misalignment logic up to multi-year megaproject governance with multiple electoral turnovers over one project. |
 
 ---
 
@@ -88,259 +109,267 @@ The ten papers appear in the same chronological order in both panels.
 
 ### 1. Definitional Landscape — is there consensus on what project governance is?
 
-Across ten papers there is a **stable definitional core but widening theoretical
-dispersion**, and the ten now fall into three definitional postures. The *structural
+Across fourteen papers the definitional core is stable but the theoretical framing
+fans out widely, and the enlarged set now shows four postures. The *structural
 mainstream* — governance as the framework of structures, processes, roles and
-accountabilities that align a project with strategy — is anchored by Biesenthal &
-Wilden (2014), who distil the field to "structure, process and role… combines
-processes, roles and accountabilities aimed at delivering projects" (p. 1300) and
-canonise Turner (2009, p. 311), PMI (2013, p. 579) and Müller (2009, p. 4). Sainati
-et al. (2020, p. 244), Qiu et al. (2019, p. 427) and Brunet (2021, p. 407, via
-Müller 2017) all restate this spine; Brunet adds the crisp framing definition of
-Klakegg et al. (2008, S30): "an organized structure established as authoritative
-within the institution, comprising processes and rules established to ensure projects
-meet their purpose" (p. 406).
+accountabilities aligning a project with strategy — is anchored by Biesenthal &
+Wilden (2014, p. 1300, canonising Turner 2009, PMI 2013 and Müller 2009) and echoed by
+Sainati et al. (2020, p. 244), Qiu et al. (2019, p. 427) and Brunet (2021, via Klakegg
+et al. 2008, p. 406). Müller's own (2009) chapter sits at the practitioner root of this
+tradition: it does not offer a one-line definition but operationalises the *governance
+of project management* as the balance of three forces (education, management demand,
+perceived economic pressure) delivered through a three-step capability model — the
+scaffolding many later definitions abstract from.
 
-The second posture, contributed most sharply by the new **Turner (2020)** paper,
-*layers* the definition. Turner separates four nested levels — governmentality, the
-board (governance of project management), the project context (governance of
-projects) and the project (project governance) — and, crucially, distinguishes
-governance (structure: "framework for managers to do work") from *governmentality*
-(agency: "the way governors interact with those they govern," Table 2). This is the
-single most important definitional refinement in the enlarged set for the RQ, because
-electoral turnover acts precisely on *governmentality* — the mentalities and
-interaction styles of whoever currently governs — rather than on the static
-governance structure.
+The second posture *layers* the definition. Turner (2020) separates governance
+(structure — "framework for managers to do work") from **governmentality** (agency —
+"the way governors interact with those they govern," Table 2), across four nested
+levels. This is pivotal for the RQ: an election acts on governmentality (the
+mentalities and interaction style of whoever governs now), while the formal governance
+structure and signed contracts persist.
 
-The third posture *declines* a project-governance definition and substitutes an
-alternative primitive: institutional logics and legitimacy (Biesenthal et al., 2018),
-distributive-political allocation (Livert et al., 2019), narrative and temporal
-structuring (Winch & Sergeeva, 2022), interorganizational cooperation and coupling
-(Malherbe, 2022), and time itself (Ika et al., 2025). The net picture: the *nominal*
-definition is stable and quotable, but the *operative* concept now spans a control
-architecture, a layered agency-plus-structure system, a political instrument, and a
-temporally-constituted process. That widening is itself the thesis's opening — the
-electoral-vs-project problem lives where the "control architecture" reading meets the
-"political instrument" and "temporal process" readings.
+The third posture *reframes* governance through an alternative primitive — institutional
+logics and legitimacy (Biesenthal et al. 2018; Qiu et al. 2019), or, in Sanderson
+(2012), through the crucial distinction between **governance** ("forms of organization
+designed *ex ante*") and **governing** ("spontaneous micro-processes… emerging *ex
+post*," p. 432). Sanderson's move matters because it makes governance *dynamic*: the
+possibility that governing spontaneously re-creates governance mid-project is exactly
+what an electoral turnover would trigger.
+
+The fourth posture *declines* a project-governance definition entirely and substitutes
+its own object: distributive-political allocation (Livert et al. 2019), narrative and
+temporal structuring (Winch & Sergeeva 2022), interorganizational coupling (Malherbe
+2022), high-reliability boundary work (Beck et al. 2024), time itself (Ika et al. 2025),
+and local political agency (Delcayre & Bourdin 2025). The upshot: the *nominal*
+definition is stable and quotable, but the *operative* concept now ranges from a
+control architecture, through a structure-plus-agency system, to an *ex-ante/ex-post*
+process, a political instrument, and a temporally-constituted phenomenon. That range is
+the thesis's opening — electoral-vs-project misalignment lives where the "control
+architecture" reading meets the "political instrument," "ex-post governing," and
+"temporal process" readings.
 
 ### 2. Governance Elements Mapping — what components consistently appear?
 
-The four-element spine identified in the first extraction survives and is reinforced:
-**(i) structures/roles/accountabilities**, **(ii) decision-making processes**,
-**(iii) multi-level / cross-organizational structure**, and **(iv) alignment/control
-mechanisms**. The new papers thicken each. Turner (2020) adds a *behavioural* layer
-beneath the structural one — six psychological constructs (culture, decision
-architecture, naturalistic decision-making, group working, identity, social
-representation) through which governance actually reaches decisions — and the OECD
-quartet (transparency, accountability, responsibility, fairness) as an accountability
-sub-spine. Brunet (2021) supplies a *normative-objective* triangle: every governance
-framework simultaneously pursues **efficiency, legitimacy and accountability**, and
-her key finding is that these three pull against one another and map onto different
-levels (institutional↔legitimacy, organizational↔accountability, project↔efficiency,
-Fig. 2). Ika et al. (2025) add a **temporal** element hitherto missing from the
-governance inventory — timing norms, temporal orientations, and time horizons as
-structuring components of any multi-actor project.
+The four-element spine holds and thickens: **(i) structures/roles/accountabilities**,
+**(ii) decision-making processes**, **(iii) multi-level / cross-organizational
+structure**, **(iv) alignment/control mechanisms**. Müller (2009) adds the
+capability-maturity dimension (education, PMOs, sponsors, audits) and the sponsor/PMO
+role pair. Turner (2020) adds a *behavioural* layer (six psychological constructs) and
+the OECD quartet (transparency/accountability/responsibility/fairness). Brunet (2021)
+adds the *normative-objective* triangle — efficiency, legitimacy, accountability —
+whose members pull against one another across levels. Sanderson (2012) adds the
+**governance-mechanism catalogue** (contracts, alliances, rendezvous clauses, KPIs,
+designed cultures) *and* the meta-distinction of made vs spontaneous order. Ika et al.
+(2025) add the hitherto-missing *temporal* components (timing norms, temporal
+orientations, time horizons), and Beck et al. (2024) add **boundary objects** and the
+four boundary types (physical/social/temporal/scope) as coordination devices.
 
-The divergence remains theoretical, and the enlarged set widens the menu: agency /
-TCE / stakeholder / stewardship / resource-dependence (Biesenthal & Wilden; Sainati),
-institutional logics and the three pillars (Biesenthal et al.; Qiu et al.),
-governmentality (Turner), sensemaking (Brunet), narrative/temporal work (Winch &
-Sergeeva) and coupling (Malherbe). Qiu et al. (2019, p. 427) and Ika et al. (2025)
-both explicitly note that mainstream governance research over-relies on agency and
-stakeholder theory and under-uses institutional and temporal lenses — a gap the
-thesis can occupy directly.
+The divergence is theoretical, and the enlarged menu is now: agency/TCE/stakeholder/
+stewardship/resource-dependence (Müller; Biesenthal & Wilden; Sainati), institutional
+logics/pillars (Biesenthal et al.; Qiu et al.), governmentality (Turner), sensemaking
+(Brunet), governing-vs-governance (Sanderson), narrative/temporal work (Winch &
+Sergeeva), coupling (Malherbe), HRO/boundary work (Beck et al.) and time-based theory
+(Ika et al.). Two papers explicitly note the field's over-reliance on agency and
+stakeholder theory (Qiu et al. p. 427; Ika et al.), pointing to the institutional and
+temporal lenses the thesis can occupy.
 
 ### 3. Stakeholder & Decision-Making Patterns — how are actors positioned, and where are the tensions?
 
-All ten converge on a **multi-actor, conflict-laden** picture arranged from
-*contained* to *contested*, and the new papers populate the middle of that spectrum.
-At the contained end sit Sainati et al. (2020), where conflict is engineered out
-ex-ante through the SPV that "clusters multiple stakeholders under a common
-incorporated vehicle" (p. 247), and Biesenthal & Wilden (2014), where theory resolves
-conflict (monitoring, trust, or stakeholder balancing). Turner (2020) adds a decisive
-mid-spectrum insight: the *same* project can carry **multiple simultaneous
-governmentalities** — neo-liberal inside a protected "Golden Circle," liberal outside
-— and governmentality shifts as the project moves from design to roll-out (p. 7). The
-Amsterdam North-South metro case is a governance *restructuring mid-project* (from
-principal-agency to stewardship) explicitly to re-position who manages the
-relationship with external stakeholders (the public) — a live analogue of governance
-changing under external pressure.
+All fourteen converge on a **multi-actor, conflict-laden** picture, and the enlarged
+set fills the spectrum from *contained* to *contested* — and, newly, to *politically
+mediated*. At the contained end, Sainati et al. (2020) engineer conflict out ex-ante
+via the SPV; Müller (2009) frames the core tension as the classic **agency problem**
+between a (too-often weak) sponsor and the project manager. Mid-spectrum, Turner (2020)
+shows a single project carrying *multiple simultaneous governmentalities* that shift
+across stages, and Sanderson (2012) shows conflict handled by three different logics
+(ex-ante accountability rules, robust governance design, or a consciously designed
+collaborative culture such as the Sydney tunnel PALT). Beck et al. (2024) show
+inter-agency conflict (120+ organizations) resolved not by hierarchy but by **deference
+to expertise** plus a shared boundary object and twice-daily coordination — a vivid
+model of "coordination across multiple organizations."
 
-Brunet (2021) positions stakeholders across three levels whose objectives conflict:
-project actors chase efficiency, the organization chases accountability, the
-institution chases legitimacy, and "some objectives oppose the others, making it
-challenging to attain an overall equilibrium" (p. 406). Malherbe (2022) shows
-cooperation itself oscillating — fragmented when partners protect value-capture
-positions, community-based when a shared bottleneck aligns them — with no hierarchical
-decider at all. At the contested end, Biesenthal et al. (2018) and Qiu et al. (2019)
-treat conflict as constitutive, resolved by institutional entrepreneurship or
-"system leaders [as] a conflicting buffer" (Qiu, p. 435). Livert et al. (2019) give
-the most nakedly *political* positioning: the central government decides disbursement
-for "its own re-election chances" (p. 7) while long-tenured mayors lobby.
+At the contested end, Biesenthal et al. (2018) and Qiu et al. (2019) treat conflict as
+constitutive, resolved by institutional entrepreneurship or "system leaders [as] a
+conflicting buffer" (Qiu, p. 435). And at the *political* end, the two Cluster-D papers
+position elected officials as first-class deciders whose calculus is electoral: Livert
+et al. (2019) show central government disbursing for "its own re-election chances"
+(p. 7), while Delcayre & Bourdin (2025) recast local officials as **political
+mediators** who "interpret, mediate, and sometimes amplify" opposition (p. 6) and who
+visibly "start distancing themselves from energy projects" as an election nears (p. 5).
 
-The pattern that matters for the RQ sharpens with the enlarged set: **who decides is
-never neutral, deciders can change mid-project (Turner's Amsterdam case, Brunet's
-"actors change quite often in the course of a megaproject lasting several years,"
-p. 413), and in the politically-attuned papers the deciders sit on an electoral
-clock.** No paper, however, joins "deciders change mid-project" to "deciders change
-*because of elections*" — the seam the thesis opens.
+The pattern that matters for the RQ is now unmistakable: **who decides is never
+neutral; deciders change mid-project (Turner's Amsterdam restructuring; Brunet's actors
+who "change quite often in the course of a megaproject lasting several years," p. 413);
+and in Cluster D the deciders are explicitly governed by the electoral clock.** Only
+Delcayre & Bourdin joins "deciders change" to "deciders act *because of* the electoral
+calendar" — and does so outside the megaproject context, which is precisely the seam
+the thesis extends.
 
 ### 4. Temporality in Governance — what the papers SAY, and what is MISSING
 
-The enlarged corpus transforms this section from the thinnest to the richest, because
-four of the five new papers are temporality-forward. It is now possible to build a
-graded map.
+The fourteen-paper set makes this the strongest section, and the additions push the
+electoral-misalignment question from *implied* to *empirically demonstrated*.
 
 **Dedicated temporality theory.** Ika, Söderlund & Pinto (2025) is the conceptual
-engine. It organises all project-time scholarship into three streams — time as a
-*scarce resource* (clock time), *temporal structures* (event time), and *processual
-flow* (process time) — and, decisively for the RQ, foregrounds **temporal misfit**
-and **entrainment**: "entrainment is a process of establishing temporal fit between
-project activities and temporal demands imposed by the external environment (e.g.,
-events)" (Dille & Söderlund, quoted pp. 5–6), where such events explicitly include
-"politics, government regulations" (p. 6). It also names the core mechanism: "while
-project managers may have a short-term concern for timely delivery, project funders
-may have a longer-term perspective… tensions often arise due to the different temporal
-orientations and horizons" (p. 2), and the "paradox of intertemporal choice" (p. 4).
-Winch & Sergeeva (2022) supply the complementary *narrative* apparatus — projectivity,
-future-perfect thinking, and the shift from a **shaping narrative** to a **delivery
-narrative** across the life-cycle (pp. 46–47) — showing how a project's future is
-continually re-projected through temporal work. Together these two give the thesis a
-ready-made toolkit: an electoral turnover is a *temporal-misfit event* (Ika) that
-forces a *re-narration* of the megaproject's future (Winch & Sergeeva).
+engine — three time streams (clock/event/process), **temporal misfit** and
+**entrainment** ("temporal fit between project activities and… the external
+environment," pp. 5–6, with events including "politics, government regulations"),
+divergent manager-vs-funder horizons (p. 2) and the "paradox of intertemporal choice"
+(p. 4). Winch & Sergeeva (2022) add the *narrative* apparatus — shaping vs delivery
+narratives re-projected across the life-cycle. Ika et al. supply the vocabulary; Winch
+& Sergeeva supply the mechanism of re-narration.
 
-**Project-internal temporality.** Qiu et al. (2019) contribute "evolutionary
-complexity" and stage-evolving system leaders (p. 437); Turner (2020) contributes
-stage-varying governmentality (p. 7); Malherbe (2022) contributes pace-mismatch
-between permanent contexts ("a huge gap between academia and industrials… another
-pace," p. 880) and coupling that tightens/loosens over three sequences; Brunet (2021)
-contributes the "dynamic aspects" and constant evolution of a governance framework
-lasting years (p. 413). Biesenthal & Wilden (2014) remain the flag for *implicit*
-temporality (short vs long horizons only, Table 4).
+**Governance → time-horizon mechanisms.** Two papers show governance *compressing* the
+decision horizon. Müller (2009) demonstrates that perceived economic pressure "reduces
+the time horizon view of the project manager drastically," forcing "short-term
+survival" over "the longer term needs of the organization." Sanderson (2012) shows the
+*political* version: because megaproject "lengthy time-frames" mean promoters "are often
+not in office when the actual viability of a project can be assessed," while approval
+"will deliver significant political capital in the short-term" (p. 436) — an
+electoral-accountability gap driving over-optimistic commitments.
 
-**Electoral/external temporality.** Only two papers reach outside the project for a
-clock. Biesenthal et al. (2018) names the exact tension — megaproject duration
-"extending beyond the political life cycle of a national government" (p. 45) — and
-Livert et al. (2019) fully specifies the *electoral* clock (political budget cycles,
-tenure, alignment) but with no project timeline.
+**Project-internal temporality.** Qiu et al. (2019) "evolutionary complexity"; Turner
+(2020) stage-varying governmentality; Malherbe (2022) pace-mismatch over three
+sequences; Brunet (2021) framework evolution over years; Beck et al. (2024) temporal
+boundaries and trichordal sensemaking. Biesenthal & Wilden (2014) remain the flag for
+*implicit* temporality (short vs long horizons only).
 
-**What is still MISSING.** Two papers must be flagged for *not* treating temporality
-as rhythm/misalignment: Sainati et al. (2020) reduces it to SPV liquidation (p. 252),
-and Biesenthal & Wilden (2014) to internal horizon length. More importantly, **no
-paper closes the loop the RQ requires.** The temporality-theory papers (Ika; Winch &
+**Electoral/external temporality.** Three papers reach outside the project for a clock.
+Biesenthal et al. (2018) names the duration-vs-political-cycle tension (p. 45); Livert
+et al. (2019) fully specifies the electoral clock (budget cycles, tenure) with no
+project timeline; and — decisively — **Delcayre & Bourdin (2025) states the exact
+mechanism of the RQ in plain terms**: "the benefits of energy transition programmes
+generally materialise in the medium to long term, whereas electoral mandates are
+short-lived. This temporal misalignment reinforces both NIMEY and NIMTOO behaviours"
+(p. 6). NIMEY ("Not In My Electoral Year") is short-term electoral avoidance; NIMTOO is
+mandate-long resistance.
+
+**What is still MISSING.** Two papers must be flagged for *not* treating temporality as
+rhythm/misalignment: Sainati et al. (2020, SPV liquidation only) and Biesenthal & Wilden
+(2014, internal horizons only). More importantly, even with Delcayre & Bourdin, **no
+paper closes the full loop the RQ needs.** The temporality-theory papers (Ika; Winch &
 Sergeeva) give the mechanism but never instantiate the electoral cycle; the
-project-internal papers (Qiu; Turner; Malherbe; Brunet) evolve time endogenously; the
-one paper with a real electoral clock (Livert) has no project timeline; and the one
-paper that names the duration-vs-political-cycle tension (Biesenthal et al.) models it
-nowhere. The specific mechanism — an *exogenous electoral cycle* turning over the
-deciders *repeatedly across a single long megaproject's timeline*, producing recurrent
-temporal misfit and forced re-narration — is named once and modelled never.
+project-internal papers evolve time endogenously; Livert has the electoral clock but no
+project timeline; Biesenthal et al. names the tension but models it nowhere; and
+Delcayre & Bourdin *does* demonstrate electoral-timeline misalignment empirically — but
+for **local officials and renewable-energy projects**, not for **multi-year megaproject
+governance with several electoral turnovers over a single project.** The specific,
+scaled mechanism — an exogenous electoral cycle repeatedly turning over the deciders and
+governmentality across one long megaproject's timeline, producing recurrent temporal
+misfit and forced re-narration — remains unbuilt.
 
 ### 5. Megaproject Context — coverage of complex, multi-level projects
 
-Coverage is strong and concentrated. Four papers are explicitly megaproject-centred —
-Biesenthal et al. (2018), Qiu et al. (2019), Sainati et al. (2020) and now **Brunet
-(2021)** — and all adopt the Flyvbjerg/Denicol US$1bn-plus, long-duration,
-multi-stakeholder definition (e.g., Brunet quotes Flyvbjerg 2014, p. 6, and Lehtonen
-et al. 2017, adding "considerable political stakes," p. 407). Brunet's Quebec case is
-especially valuable for the RQ because it studies a *government-owned* megaproject
-governance framework as **public policy**, where elected ministers make commitments
-and legitimacy is the institutional-level objective — the closest any paper comes to
-placing megaproject governance inside the electoral-political apparatus. Qiu et al.'s
-HZMB bridge remains the richest worked example of multi-government, cross-jurisdiction
-complexity; Sainati et al. supply the PPP/PF financial-legal architecture.
+Coverage is now strong and layered. Five papers are explicitly megaproject-centred —
+Sanderson (2012), Biesenthal et al. (2018), Qiu et al. (2019), Sainati et al. (2020) and
+Brunet (2021) — all adopting the Flyvbjerg/Denicol threshold and complexity criteria.
+Sanderson is a particularly important addition: it is a *governance-of-megaprojects*
+paper whose Type-A explanation directly connects megaproject scale and duration to the
+*political* accountability gap, and whose governing-vs-governance distinction supplies
+the dynamic lens the RQ needs. Brunet embeds megaproject governance inside the
+*elected-political* apparatus (government-owned framework, ministers, legitimacy);
+Qiu et al.'s HZMB bridge remains the richest multi-government case; Sainati supplies the
+PPP/PF architecture.
 
-The remaining six cover the *inter-organizational and multi-level* criteria without
-being megaproject-specific: Biesenthal & Wilden (2014) on multi-level PBOs; Turner
-(2020) on mixed IT/construction/change cases (two of them construction); Winch &
-Sergeeva (2022) on the Eden Millennium project and project coalitions; Malherbe (2022)
-on a 16-partner innovation ecosystem; Ika et al. (2025) on temporary organizations
-generally (noting megaprojects "blur the boundaries between temporary and permanent,"
-p. 3); and Livert et al. (2019) on metropolitan grant allocation. So the megaproject
-*context* is now very well covered (four dedicated papers) and the temporal *machinery*
-is well covered (three dedicated papers), but — as before — **no single paper covers
-the megaproject context, the electoral mechanism, and the temporal machinery at once.**
+The other nine cover *inter-organizational and multi-level* criteria without being
+megaproject-specific: Müller (2009) on PBO capability; Biesenthal & Wilden (2014) on
+multi-level PBOs; Turner (2020) on mixed cases; Winch & Sergeeva (2022) on the Eden
+project and coalitions; Malherbe (2022) on a 16-partner innovation ecosystem; Beck et
+al. (2024) on a 120-agency emergency response; Ika et al. (2025) on temporary
+organizations generally; and the two Cluster-D papers on metropolitan grant allocation
+and multi-level energy governance. So the megaproject *context* is very well covered
+(five dedicated papers), the *inter-organizational coordination* concept is well covered
+(Malherbe, Beck et al., Qiu et al.), and the electoral *mechanism* is covered (Livert;
+Delcayre & Bourdin) — but no single paper covers the megaproject context, the electoral
+mechanism, and the temporal machinery together.
 
 ### 6. Research Gap Analysis — what temporal-misalignment research fills
 
-Reading all ten together yields a sharper, better-evidenced gap statement, built from
-the papers' own words:
+Reading all fourteen together produces the sharpest, best-evidenced gap statement yet —
+and, importantly, Delcayre & Bourdin (2025) *narrows* it from "unexamined" to
+"demonstrated-but-not-scaled":
 
-1. **The horizon-conflict is named but not mechanised.** Biesenthal et al. (2018,
-   p. 45) explicitly flag megaproject duration exceeding "the political life cycle of
-   a national government," and ask "How do institutional dynamics influence outcomes
-   on megaprojects?" (p. 49). The thesis supplies the missing causal mechanism.
+1. **The mechanism is now empirically real — but not at megaproject scale.** Delcayre &
+   Bourdin (2025) show, with interviews and press analysis, that electoral-timeline
+   misalignment drives governance outcomes (delay, softening, blocking) via NIMEY/NIMTOO,
+   explicitly naming "temporal misalignment" (p. 6). The thesis's contribution is to
+   carry this proven mechanism up to **multi-year megaproject governance**, where a
+   single project spans *several* electoral cycles and the deciders turn over repeatedly.
 
-2. **The two clocks are studied apart, never joined.** Livert et al. (2019) own the
-   *electoral* clock with no project timeline; Qiu et al. (2019), Turner (2020) and
-   Brunet (2021) own the *project* life-cycle with political actors treated as
-   concurrent or static, not electorally-refreshed. Integrating them — importing
-   Livert's core/swing and budget-cycle mechanisms into the megaproject governance
-   frame — is the contribution space.
+2. **The horizon-conflict is named across the corpus but never modelled dynamically.**
+   Biesenthal et al. (2018, p. 45) and Sanderson (2012, p. 436) both flag that
+   megaproject duration exceeds political tenure; Müller (2009) and Ika et al. (2025)
+   supply the horizon-compression and temporal-misfit mechanisms. Assembling these into
+   a dynamic model of *recurring* electoral perturbation is open work.
 
-3. **A ready-made temporal apparatus exists but has never been pointed at elections.**
-   Ika et al. (2025) give temporal misfit, entrainment and divergent stakeholder
-   horizons; Winch & Sergeeva (2022) give shaping-vs-delivery re-narration across the
-   life-cycle. The thesis can model the electoral cycle as an external *zeitgeber* the
-   megaproject repeatedly fails to entrain to, each turnover forcing a re-narration —
-   a framing neither temporality paper undertakes.
+3. **The two clocks are studied apart.** Livert et al. (2019) and Delcayre & Bourdin
+   (2025) own the electoral clock; Qiu et al., Turner, Brunet, Sanderson and Winch &
+   Sergeeva own the project clock. Integrating them — importing NIMEY/core-swing/budget-
+   cycle logic into megaproject governance — is the contribution space.
 
-4. **Governance is modelled as static, endogenously-evolving, or singly-governed —
-   never electorally-perturbed.** Sainati et al. (2020) render governance static;
-   Biesenthal & Wilden (2014) as fixed horizons; Qiu et al., Turner and Malherbe allow
-   *internal* evolution; Brunet allows framework evolution — but none introduces an
-   external clock that periodically changes the principals. Turner's Amsterdam
-   governance-restructuring case and Brunet's "actors change quite often in the course
-   of a megaproject lasting several years" (p. 413) are the nearest analogues, and both
-   beg the electoral extension.
+4. **A ready-made temporal apparatus exists but is pointed at elections only in Cluster
+   D.** Ika et al. (entrainment/misfit) and Winch & Sergeeva (re-narration) provide the
+   machinery; the thesis can model the electoral cycle as an external *zeitgeber* the
+   megaproject repeatedly fails to entrain to, each turnover forcing a re-narration and a
+   shift in governmentality.
 
-5. **Existing conflict typologies lack a temporal-electoral category.** Qiu et al.'s
-   six complexity types (p. 436) and Biesenthal et al.'s three pillars have no
-   *electoral-timing* conflict type, though Qiu's "political" and "evolutionary"
-   complexity and Ika et al.'s "temporal misfit" both border it. The study can propose
-   electoral misalignment as a distinct temporal source of institutional conflict,
-   extending rather than overturning these frameworks.
+5. **Governance is modelled as static, endogenously-evolving, or singly-governed — the
+   ex-post/governing view is the exception.** Sainati (static) and Biesenthal & Wilden
+   (fixed horizons) sit at one end; Sanderson's governing-vs-governance and Turner's
+   Amsterdam restructuring show governance *changing* mid-project. None introduces a
+   *recurring external clock* that changes the principals on a fixed cadence — which is
+   what elections do.
 
-6. **The governmentality lens localises the impact precisely.** Turner's (2020)
-   separation of governance (structure) from governmentality (agency) shows *where*
-   an election bites: a new administration changes the governmentality — mentalities,
-   interaction styles, risk appetite, stakeholder posture — while the formal governance
-   structure and the signed contracts (Sainati's SPVs) persist. The friction between a
-   *durable* governance/contractual structure and a *cyclically-changing* governmentality
-   is a crisp, novel formulation the thesis can adopt.
+6. **The governmentality lens localises where an election bites.** Turner's (2020)
+   structure/governmentality split shows that an election changes governmentality
+   (mentalities, risk appetite, stakeholder posture) while the durable governance
+   structure and contracts (Sainati's SPVs) persist. The friction between a *durable*
+   structure and a *cyclically-changing* governmentality — sharpened by Sanderson's
+   ex-ante/ex-post distinction — is a crisp, novel formulation the thesis can adopt.
 
-**Bottom line for the transfer report.** The ten papers now supply, between them, every
-component the research question needs: (a) a stable structural definition plus Turner's
-structure/governmentality split; (b) an institutional-logics and complexity frame that
-already accommodates competing-time conflicts; (c) four richly-described megaproject
-cases including a government-policy framework (Brunet); (d) a dedicated temporal
-apparatus (Ika; Winch & Sergeeva) built for exactly this kind of external-clock misfit;
-and (e) a fully-specified electoral mechanism (Livert). What none of them does — and
-what the thesis is positioned to deliver — is the **integration**: a governance account
-in which an exogenous electoral cycle, turning over the deciders across a megaproject's
-multi-year (typically multi-electoral-term) timeline, becomes a first-class driver of
-governance outcomes through recurrent temporal misfit, forced re-narration, and friction
-between durable structure and cyclical governmentality. Every paper points at this seam;
-none crosses it.
+7. **Existing conflict typologies lack a temporal-electoral category — except NIMEY.**
+   Qiu et al.'s six complexity types and Biesenthal et al.'s three pillars have no
+   electoral-timing conflict type; Delcayre & Bourdin's NIMEY/NIMTOO typology is the one
+   template that does, and it is built for local politics, not megaproject governance.
+   The study can adapt and scale it.
+
+**Bottom line for the transfer report.** The fourteen papers now supply, between them,
+every component the research question needs — a stable structural definition plus
+Turner's structure/governmentality split and Sanderson's governance/governing split; an
+institutional-logics and complexity frame for competing-time conflict; five
+megaproject cases including a government-policy framework (Brunet) and a governance-
+of-megaprojects critique (Sanderson); a dedicated temporal apparatus (Ika; Winch &
+Sergeeva) plus governance→horizon-compression mechanisms (Müller; Sanderson); rich
+inter-organizational coordination models (Malherbe; Beck et al.; Qiu et al.); and, in
+Cluster D, both a quantitative electoral-allocation mechanism (Livert) and a *direct
+empirical demonstration of electoral-timeline misalignment* (Delcayre & Bourdin). What
+none of them does — and what the thesis is positioned to deliver — is the **integration
+at megaproject scale**: a governance account in which an exogenous electoral cycle,
+turning over the deciders and their governmentality repeatedly across a megaproject's
+multi-year, multi-electoral-term timeline, becomes a first-class driver of governance
+outcomes through recurrent temporal misfit, forced re-narration, and friction between
+durable structure and cyclical governmentality. Delcayre & Bourdin proves the mechanism
+exists; every other paper supplies a piece of the frame; none assembles them for
+megaprojects. That assembly is the study's contribution.
 
 ---
 
-### Appendix — Explicit definition quotes (quick reference, all 10 papers)
+### Appendix — Explicit definition & keystone quotes (quick reference, all 14 papers)
 
-| Source (as cited in the papers) | Definitional quote | Located in |
+| Source (as cited in the papers) | Quote | Located in |
 |---|---|---|
-| Turner (2009, p. 311) | "The governance of a project involves a set of relationships between the project's management, its sponsor… its owner and other stakeholders. It provides the structure through which the objectives… are set, and the means of attaining those objectives and monitoring performance are determined." | Biesenthal & Wilden, Table 2, p. 1294 |
+| Müller (2009) | Perceived economic pressure "reduces the time horizon view of the project manager drastically… project managers tend to drastically shorten their time horizon… focus exclusively on their own short-term survival." | Müller (2009), "Governance of Project Management" ch. |
+| Sanderson (2012) | Governance = "forms of organization designed *ex ante*"; governing = "spontaneous micro-processes of organizing emerging *ex post*." | Sanderson, p. 432 |
+| Sanderson (2012) | Megaproject "lengthy time-frames… lack of proper accountability for project promoters, typically politicians, because they are often not in office when the actual viability of a project can be assessed." | Sanderson, p. 436 |
+| Turner (2009, p. 311) | Governance "provides the structure through which the objectives… are set, and the means of attaining those objectives and monitoring performance are determined." | Biesenthal & Wilden, Table 2, p. 1294 |
 | PMI (2013, p. 579) | "The alignment of project objectives with the strategy of the larger organization by the project sponsor and project team." | Biesenthal & Wilden, Table 2, p. 1294 |
-| Müller (2009, p. 4) | Governance "comprises the value system, responsibilities, processes and policies that allow projects to achieve organizational objectives." | Biesenthal & Wilden, Table 2, p. 1294 |
 | Flyvbjerg (2014, p. 6) | Megaprojects are "large-scale, complex ventures that typically cost US$1 billion or more, take many years to develop and build, involve multiple public and private stakeholders, are transformational, and impact millions of people." | Biesenthal et al., p. 44; also Brunet, p. 407 |
-| Denicol et al. (2020, p. 1) | "Megaprojects are the delivery model used to produce large-scale, complex, and one-off capital investments… extremely risky ventures, notoriously difficult to manage." | Sainati et al., p. 244 |
 | Qiu et al. (2019) | Governance "refers to all of the mechanisms within a project organization that broadly determine how resources are used and distributed… and resolve conflicts among its various embedded actors." | Qiu et al., p. 427 |
+| Turner (2020) / Müller (2019b) | Governance = "Framework for managers to do work"; governmentality = "the way governors interact with those they govern." | Turner, Table 2, p. 4 |
 | Sainati et al. (2020) | "Project governance defines both the organisational structures and processes to govern the project… assigning project roles and responsibilities to project stakeholders." | Sainati et al., p. 244 |
-| Müller (2019b) / Turner (2020) | Governance = "Framework for managers to do work: structures, policies, processes"; governmentality = "The way governors interact with those they govern." | Turner, Table 2, p. 4 |
 | Klakegg et al. (2008, S30) | A governance framework is "an organized structure established as authoritative within the institution, comprising processes and rules established to ensure projects meet their purpose." | Brunet, p. 406 |
-| Müller (2017, p. 5) | Governance "defines the framework (including the limitations) within which management is executed." | Brunet, p. 407 |
-| Lehtonen et al. (2017, p. 1) | Megaprojects = "large-scale, complex infrastructure projects usually commissioned by governments and delivered through partnerships between public and private organisations, with multiple partners, high uncertainties, and considerable political stakes." | Brunet, p. 407 |
-| Sergeeva & Winch (2021) / Winch & Sergeeva (2022) | Project narratives = "coherent, performative narratives that project an intended future for the organization that will subsequently be filled in by project organizing." | Winch & Sergeeva, p. 44 |
-| Calamel et al. (2012, p. 50) | Cooperation = "the stance or attitude of members themselves toward the project, their willingness (or reluctance) to work together." | Malherbe, p. 872 |
+| Winch & Sergeeva (2022) | Project narratives = "coherent, performative narratives that project an intended future… filled in by project organizing." | Winch & Sergeeva, p. 44 |
+| Langley et al. (2019), via Beck et al. | Boundary work = "purposeful individual and collective effort to influence the social, symbolic, material or temporal boundaries… affecting groups, occupations and organizations." | Beck et al., p. 4 |
 | Bakker (2010, p. 468) | A temporary organization = "a set of organizational actors working together on a complex task over a limited period of time." | Ika et al., p. 2 |
 | Dille & Söderlund (2011), via Ika et al. | Entrainment = "a process of establishing temporal fit between project activities and temporal demands imposed by the external environment (e.g., events)." | Ika et al., pp. 5–6 |
+| Delcayre & Bourdin (2025) | "The benefits of energy transition programmes generally materialise in the medium to long term, whereas electoral mandates are short-lived. This temporal misalignment reinforces both NIMEY and NIMTOO behaviours." | Delcayre & Bourdin, p. 6 |
