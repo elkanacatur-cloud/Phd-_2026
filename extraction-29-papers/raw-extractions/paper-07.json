@@ -1,0 +1,32 @@
+{
+  "id": 7,
+  "filename": "JoslinMuller_2016_GovernanceAndSuccess.md",
+  "authors": "Robert Joslin, Ralf Müller",
+  "year": 2016,
+  "doc_type": "journal article",
+  "outlet": "International Journal of Project Management 34, 613-626",
+  "method": "cross-sectional worldwide survey (N=254); factor + regression",
+  "geography_sector": "worldwide; all industries",
+  "definition": "Project governance = 'the use of systems, structures of authority, and processes to allocate resources and coordinate or control activity in a project' (Pinto 2014, quoted p. 613); 'coexists within the corporate governance framework' (Müller 2009).",
+  "definition_explicit": true,
+  "elements": [
+    "governance paradigms: shareholder-stakeholder orientation x behavior-outcome control (Müller & Lecoeuvre 2014)",
+    "agency vs stewardship theory"
+  ],
+  "stakeholders": "Parent organization over project; more shareholder- vs more stakeholder-oriented. Finding: success rises with stakeholder orientation; control-type immaterial.",
+  "decision_making": "Yes - governance-paradigm axes; hypothesis testing.",
+  "temporality_flag": "No",
+  "temporality_detail": "Cross-sectional; success related to stakeholder orientation at a single point in time. Does not treat temporality/rhythm.",
+  "megaproject_coverage": "No",
+  "megaproject_detail": "Worldwide, all industries; not megaproject-specific.",
+  "misalignment_flag": "No",
+  "misalignment_detail": "Static snapshot; no timing dimension.",
+  "relevance": "Low",
+  "gaps": "Cements the shareholder<->stakeholder and behavior<->outcome axes and the stewardship result - but static. RQ can ask how an electoral cycle swings a parent between orientations over a project's life.",
+  "key_quotes": [
+    "Project governance = 'the use of systems, structures of authority, and processes to allocate resources and coordinate or control activity in a project' (Pinto 2014, p. 613).",
+    "Project success correlates with increasing stakeholder orientation; types of control mechanisms do not correlate (abstract, p. 613)."
+  ],
+  "coding_notes": "Empirical anchor for the shareholder/stakeholder axis reused by Gil & Beckman (2025). Müller co-authors items 2, 7, 22 - author cluster.",
+  "cluster": "A_foundations"
+}

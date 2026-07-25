@@ -1,0 +1,32 @@
+{
+  "id": 6,
+  "filename": "BiesenthalWilden_2014_MultilevelProjectGovernance.md",
+  "authors": "Christopher Biesenthal, Ralf Wilden",
+  "year": 2014,
+  "doc_type": "journal article",
+  "outlet": "International Journal of Project Management 32, 1291-1308",
+  "method": "conceptual review; multi-level framework",
+  "geography_sector": "generic project-based organizations",
+  "definition": "Turner (2009, p. 311): governance 'provides the structure through which the objectives... are set, and the means of attaining... and monitoring performance are determined.'",
+  "definition_explicit": true,
+  "elements": [
+    "structure, process and role",
+    "multi-level (project/PMO/parent)",
+    "five theories"
+  ],
+  "stakeholders": "Sponsor, owner, principal/agent, steward; theory-dependent resolution.",
+  "decision_making": "Yes - level-matched framework (Table 4).",
+  "temporality_flag": "Brief",
+  "temporality_detail": "Short vs long horizons; life cycle. No external clock.",
+  "megaproject_coverage": "Partial",
+  "megaproject_detail": "Multi-level PBOs.",
+  "misalignment_flag": "No",
+  "misalignment_detail": "Level scaffolding only; no electoral clock.",
+  "relevance": "Low",
+  "gaps": "Provides the multi-level scaffolding on which cross-level electoral effects act.",
+  "key_quotes": [
+    "Governance 'provides the structure through which the objectives... are set, and the means of attaining... and monitoring performance are determined' (Turner 2009, via Table 2, p. 1294)."
+  ],
+  "coding_notes": "Widely cited as the multi-level governance reference (Pathak 2023 builds its multi-level aspect on it).",
+  "cluster": "A_foundations"
+}

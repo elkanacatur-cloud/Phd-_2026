@@ -1,0 +1,33 @@
+{
+  "id": 24,
+  "filename": "Afieroho_etal_2024_MetaorganizingResponsibilization.md",
+  "authors": "Ovie Afieroho, Yongkui Li, Yilong Han, Mladen Radujković",
+  "year": 2024,
+  "doc_type": "journal article",
+  "outlet": "Project Leadership and Society 5, art. 100151",
+  "method": "design-science research; two design principles (Lekki-Epe PPP, Nigeria)",
+  "geography_sector": "Nigeria; PPP urban megaproject (Lekki-Epe, 30-yr concession)",
+  "definition": "Governmentality lens: government strategies to 'shape, normalize, and instrumentalize the conduct and thoughts of others' (Rose & Miller); meta-organizing & responsibilization.",
+  "definition_explicit": false,
+  "elements": [
+    "meta-governance ('coordination of... governance modes... to overcome governance failures')",
+    "community engagement",
+    "weak institutions"
+  ],
+  "stakeholders": "Government as dominant/steering stakeholder; private concessionaire; community. Conflict = community opposition/protests -> govt buy-out.",
+  "decision_making": "Yes - design-science; two design principles.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Moderate & RQ-pointed. 'it took over two years to secure a sovereign guarantee... because the federal and state governments were controlled by different political parties at the time' (p. 5); govt actors seek 'political mileage for the next election' (p. 5).",
+  "megaproject_coverage": "Full",
+  "megaproject_detail": "PPP urban megaproject; Lekki-Epe, 30-yr concession; multi-level federal/state/local.",
+  "misalignment_flag": "Yes",
+  "misalignment_detail": "Empirically shows partisan misalignment across government levels delaying a megaproject two years - through governmentality/community-engagement, not a cyclical model.",
+  "relevance": "High",
+  "gaps": "Cross-level partisan delay shown; no cyclical electoral model.",
+  "key_quotes": [
+    "'it took over two years to secure a sovereign guarantee from the federal government because the federal and state governments were controlled by different political parties at the time' (p. 5).",
+    "Govt actors seek 'political mileage for the next election' (p. 5)."
+  ],
+  "coding_notes": "Governmentality lens shared with Turner (2020). Clearest cross-level partisan-delay evidence.",
+  "cluster": "D_political_electoral_multilevel"
+}

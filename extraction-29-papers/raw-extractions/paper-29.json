@@ -1,0 +1,33 @@
+{
+  "id": 29,
+  "filename": "DelcayreBourdin_2025_BeyondNIMEY_GEC.md",
+  "authors": "Arnaud Delcayre, Sébastien Bourdin",
+  "year": 2025,
+  "doc_type": "journal article",
+  "outlet": "Global Environmental Change 92, art. 102998",
+  "method": "typology of political resistance; 30 interviews + 50 press articles",
+  "geography_sector": "France (unitary multi-level); renewable-energy transition projects",
+  "definition": "No PG definition - energy-transition governance & local political agency in a multi-level (unitary French) system (p. 1).",
+  "definition_explicit": false,
+  "elements": [
+    "external / internal / personal constraint factors",
+    "typology NIMEY / NIMTOO / ideological",
+    "structuration & embedded agency"
+  ],
+  "stakeholders": "Local elected officials as political mediators who 'interpret, mediate, and sometimes amplify' opposition (p. 6).",
+  "decision_making": "Yes - typology of political resistance.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Core & explicitly electoral (keystone). NIMEY; 'electoral mandates are short-lived. This temporal misalignment reinforces both NIMEY and NIMTOO behaviours' (p. 6).",
+  "megaproject_coverage": "No",
+  "megaproject_detail": "Inter-org/multi-level core; large infrastructure, not $1bn megaproject.",
+  "misalignment_flag": "Yes",
+  "misalignment_detail": "Empirical instantiation of the RQ's mechanism for local officials & renewable-energy projects. Remaining gap: scale to megaproject governance with multiple electoral turnovers per project.",
+  "relevance": "High",
+  "gaps": "Names the exact mechanism (electoral misalignment) but at local-official / non-megaproject scale.",
+  "key_quotes": [
+    "'The benefits of energy transition programmes generally materialise in the medium to long term, whereas electoral mandates are short-lived. This temporal misalignment reinforces both NIMEY and NIMTOO behaviours' (p. 6).",
+    "Local officials 'interpret, mediate, and sometimes amplify' opposition (p. 6)."
+  ],
+  "coding_notes": "The single closest template (NIMEY/NIMTOO) to the thesis's construct; built for local politics, to be scaled up.",
+  "cluster": "D_political_electoral_multilevel"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 23,
+  "filename": "Beck_etal_2024_BoundaryWorkHRO.md",
+  "authors": "Tammy E. Beck, Stephanie Solansky, Judith Davis, Karen Ford-Eickhoff, Donde Ashmos Plowman",
+  "year": 2024,
+  "doc_type": "journal article",
+  "outlet": "Information and Organization 34, art. 100524",
+  "method": "case study; dynamic decision-making via modeling",
+  "geography_sector": "USA; interorganizational disaster/high-reliability collaboration (120+ agencies)",
+  "definition": "No governance definition. Boundary work = 'purposeful... effort to influence the social, symbolic, material or temporal boundaries' (p. 4).",
+  "definition_explicit": false,
+  "elements": [
+    "five HRO principles",
+    "four boundary types",
+    "boundary objects"
+  ],
+  "stakeholders": "120+ agencies; deference to expertise + twice-daily meetings; shared boundary object resolves conflict.",
+  "decision_making": "Yes - dynamic decision-making via modeling.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Moderate. Explicit temporal boundaries ('time, speed, and sequencing,' p. 3); trichordal sensemaking. No cyclical/electoral time.",
+  "megaproject_coverage": "No",
+  "megaproject_detail": "Inter-org core; not megaproject.",
+  "misalignment_flag": "No",
+  "misalignment_detail": "Inter-org coordination + temporal-boundary + boundary-object lens. Peripheral to elections.",
+  "relevance": "Low",
+  "gaps": "Temporal-boundary concept transferable; no political clock.",
+  "key_quotes": [
+    "Boundary work = 'purposeful... effort to influence the social, symbolic, material or temporal boundaries' (p. 4)."
+  ],
+  "coding_notes": "Plowman links to Beck & Plowman institutional-emergence lineage.",
+  "cluster": "C_temporality_interorg_network"
+}

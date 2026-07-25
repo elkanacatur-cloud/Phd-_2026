@@ -1,0 +1,34 @@
+{
+  "id": 25,
+  "filename": "BrunetChoiniere_2024_GovernanceFrameworkTrajectoryCanada.md",
+  "authors": "Maude Brunet, Olivier Choinière",
+  "year": 2024,
+  "doc_type": "journal article",
+  "outlet": "Project Management Journal 56(1), 74-89",
+  "method": "process tracing; five-iteration trajectory (1978-present)",
+  "geography_sector": "Canada; federal major public projects (CAD$100M+)",
+  "definition": "Governance framework (Klakegg et al., 2008: S30) treated as public policy; neo-institutionalism (Scott's three pillars).",
+  "definition_explicit": true,
+  "elements": [
+    "institutional layering",
+    "path dependency",
+    "policy cycle",
+    "regulative/normative pillars",
+    "five iterations of instruments/actors"
+  ],
+  "stakeholders": "Treasury Board, deputy heads, project leaders, SDO, sponsor, Cabinet; actors added/removed each iteration.",
+  "decision_making": "Yes - process tracing across five iterations.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Core & RQ-critical. Five governance-framework iterations 1978-present mapped to changes of government (Liberal->Conservative->Liberal->Conservative->Liberal, Table 1); 'following the changes in the government parties, there have been... critical junctures... changes in vision and values' (p. 84).",
+  "megaproject_coverage": "Full",
+  "megaproject_detail": "Canadian federal major public projects (CAD$100M+).",
+  "misalignment_flag": "Yes",
+  "misalignment_detail": "Strongest demonstration that governance frameworks evolve with electoral/political alternation over decades - but framed as institutional layering/path dependency, not misalignment with a single project's timeline.",
+  "relevance": "High",
+  "gaps": "Framework-level (not single-project) trajectory; scale down to one megaproject crossing cycles.",
+  "key_quotes": [
+    "'following the changes in the government parties, there have been... critical junctures... changes in vision and values explicitly endorsed' (p. 84)."
+  ],
+  "coding_notes": "Same lead author as item 16 (Brunet 2021), distinct paper; shares Klakegg definition. Closest existing work to the RQ at framework scale.",
+  "cluster": "D_political_electoral_multilevel"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2,
+  "filename": "Muller_2009_ProjectGovernance.md",
+  "authors": "Ralf Müller",
+  "year": 2009,
+  "doc_type": "book chapter",
+  "outlet": "in Project Governance, Gower",
+  "method": "conceptual model + capability framework",
+  "geography_sector": "generic project-based organizations",
+  "definition": "No one-sentence definition; governance of PM = balancing Education / Management Demand / Perceived Economic Pressure.",
+  "definition_explicit": false,
+  "elements": [
+    "three-step capability model",
+    "PMOs",
+    "sponsors",
+    "audits",
+    "certification",
+    "maturity models",
+    "four governance paradigms"
+  ],
+  "stakeholders": "Sponsor + PMO members; core is the agency problem (weak sponsor vs project manager).",
+  "decision_making": "Yes - 3-step economic model.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Pressure 'reduces the time horizon view of the project manager drastically... short-term survival.' No electoral time.",
+  "megaproject_coverage": "No",
+  "megaproject_detail": "Not megaproject-specific; PBO-internal.",
+  "misalignment_flag": "No",
+  "misalignment_detail": "Manager-level horizon compression is an analogue; no external clock.",
+  "relevance": "Low",
+  "gaps": "Extend horizon-compression logic to electoral pressure.",
+  "key_quotes": [
+    "Pressure 'reduces the time horizon view of the project manager drastically... short-term survival.'"
+  ],
+  "coding_notes": "Foundational definitional source (controls/processes/relationships lineage). Scanned pagination unreliable - cited by concept.",
+  "cluster": "A_foundations"
+}

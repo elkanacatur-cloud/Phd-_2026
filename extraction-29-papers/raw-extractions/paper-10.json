@@ -1,0 +1,37 @@
+{
+  "id": 10,
+  "filename": "Dille_etal_2018_TemporalConditioning_IJPM.md",
+  "authors": "Therese Dille, Jonas Söderlund, Stewart Clegg",
+  "year": 2018,
+  "doc_type": "journal article",
+  "outlet": "International Journal of Project Management 36, 673-686",
+  "method": "processual longitudinal case study (Norwegian TETRA emergency network; 40 interviews)",
+  "geography_sector": "Norway; national emergency-communication inter-institutional project (EUR440m)",
+  "definition": "No PG definition. Temporal conditioning = 'the process of responding to and coping with institutionally prescribed and conflicting temporal demands' (p. 673); inter-institutional project.",
+  "definition_explicit": false,
+  "elements": [
+    "time-reckoning systems",
+    "timing norms (sequence, duration, rhythm, frequency)",
+    "three strategies: temporal avoidance / splitting / matching",
+    "dynamic temporal zone",
+    "isochronism",
+    "monochronicity/polychronicity"
+  ],
+  "stakeholders": "Three emergency services (Health/Fire/Police) with divergent time horizons; DNK project org; government/Parliament as temporal gate; contractor MultiCom. PM team plays constituencies off (temporal matching).",
+  "decision_making": "Yes - processual analysis of managerial temporal responses across five phases.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Divergent institutional time-reckoning systems; 'significant temporal misfit across the public subprojects' (p. 678); simultaneous speeding-up/slowing-down; Parliament approval as a temporal gate (Step 1->Step 2). No repeating electoral cycle.",
+  "megaproject_coverage": "Full",
+  "megaproject_detail": "Core inter-institutional/large-scale (EUR440m; multi-government, public-private).",
+  "misalignment_flag": "Yes",
+  "misalignment_detail": "The keystone temporal-conditioning machinery: divergent clocks within one project + government/Parliament exogenous temporal gate + three named coping strategies. External gate is a one-off parliamentary vote, not a recurring election.",
+  "relevance": "High",
+  "gaps": "Reusable to classify megaproject responses to electoral-temporal misfit; its external gate is one-off, not cyclical.",
+  "key_quotes": [
+    "Temporal conditioning = 'the process of responding to and coping with institutionally prescribed and conflicting temporal demands' (p. 673).",
+    "PM team 'was unable to resolve the significant temporal misfit across the public subprojects' (p. 678).",
+    "Strategies = 'temporal avoidance', 'temporal splitting', 'temporal matching' (p. 682)."
+  ],
+  "coding_notes": "Clegg + Söderlund author cluster (Söderlund also co-authors Ika 2025). Directly instantiates entrainment concepts Ika (2025) later theorizes.",
+  "cluster": "C_temporality_interorg_network"
+}

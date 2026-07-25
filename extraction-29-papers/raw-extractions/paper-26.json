@@ -1,0 +1,33 @@
+{
+  "id": 26,
+  "filename": "Bakhshi_etal_2025_ControlToAdaptation.md",
+  "authors": "Javad Bakhshi, Petr Matous, Lynn Crawford",
+  "year": 2025,
+  "doc_type": "journal article",
+  "outlet": "Project Management Journal (online)",
+  "method": "systematic review of 636 articles; bibliographic coupling",
+  "geography_sector": "project governance (global corpus; megaprojects, PPPs, networks)",
+  "definition": "PMI (2021): PG = 'guidance of project activities through frameworks, processes, and functions aligned with strategic, organizational, and operational objectives.' Müller (2016): controls / processes / relationships.",
+  "definition_explicit": true,
+  "elements": [
+    "from control to adaptation",
+    "five approaches",
+    "theory map (agency/TCE/institutional/stakeholder/network/complexity)",
+    "adaptive & temporal governance flagged"
+  ],
+  "stakeholders": "Principals/agents, stakeholders, networks across levels; conflict theorised per lens.",
+  "decision_making": "Yes - systematic review + bibliographic coupling.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Flags temporal governance as a gap. 'opportunities to explore temporal governance... how time-sensitive adaptations (e.g., to market or regulatory changes) impact project viability' (p. 11); 'sociopolitical changes as critical triggers for governance adaptations... often inadequately addressed.'",
+  "megaproject_coverage": "Partial",
+  "megaproject_detail": "Review - covers megaprojects, PPPs, networks.",
+  "misalignment_flag": "Yes",
+  "misalignment_detail": "Field-level confirmation that temporal & sociopolitical-trigger governance is under-theorised - precisely the thesis's space.",
+  "relevance": "Medium",
+  "gaps": "Names the missing agenda (temporal governance; sociopolitical triggers) without filling it.",
+  "key_quotes": [
+    "'opportunities to explore temporal governance... how time-sensitive adaptations (e.g., to market or regulatory changes) impact project viability' (p. 11)."
+  ],
+  "coding_notes": "Most authoritative recent field map; legitimizes the thesis gap statement.",
+  "cluster": "A_foundations"
+}

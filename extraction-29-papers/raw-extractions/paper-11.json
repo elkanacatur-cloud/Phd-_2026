@@ -1,0 +1,33 @@
+{
+  "id": 11,
+  "filename": "Livert_etal_2019_PavingElectoralWay.md",
+  "authors": "Felipe Livert, Xabier Gainza, Ignacio Acuña",
+  "year": 2019,
+  "doc_type": "journal article",
+  "outlet": "World Development 124, art. 104628",
+  "method": "empirical panel (fixed effects + GMM)",
+  "geography_sector": "Chile; metropolitan Santiago; intergovernmental transfers",
+  "definition": "No PG definition - urban/metropolitan governance & distributive politics.",
+  "definition_explicit": false,
+  "elements": [
+    "multilevel (local/regional/central)",
+    "fragmented metro",
+    "intergovernmental transfers",
+    "social capital"
+  ],
+  "stakeholders": "Central govt + mayors; transfers 'used to win, exercise, and retain power' (p. 2). Elected two-tier authority proposed.",
+  "decision_making": "Yes - econometric identification.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Electoral time, not project time. Political budget cycles (p. 2); tenure (p. 7); fixed electoral calendar.",
+  "megaproject_coverage": "No",
+  "megaproject_detail": "Inter-governmental/metropolitan; not megaproject.",
+  "misalignment_flag": "Yes",
+  "misalignment_detail": "Electoral clock without a project timeline; supplies core/swing & budget-cycle mechanism.",
+  "relevance": "High",
+  "gaps": "Has the electoral clock but no project timeline to misalign it against.",
+  "key_quotes": [
+    "Transfers 'used to win, exercise, and retain power' (p. 2)."
+  ],
+  "coding_notes": "Political-budget-cycle mechanism; complements project-clock papers.",
+  "cluster": "D_political_electoral_multilevel"
+}

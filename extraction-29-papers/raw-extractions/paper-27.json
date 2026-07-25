@@ -1,0 +1,35 @@
+{
+  "id": 27,
+  "filename": "GilBeckman_2025_EscapingGovernanceTrap_CMR.md",
+  "authors": "Nuno Gil, Sara Beckman",
+  "year": 2025,
+  "doc_type": "journal article (special-issue introduction)",
+  "outlet": "California Management Review 67(3), 5-20",
+  "method": "conceptual introduction; illustrative megaproject cases",
+  "geography_sector": "UK/USA/Germany/Canada; HS2, California HSR, Berlin Brandenburg, Trans Mountain",
+  "definition": "No PG definition. Governance trap = mismatch between law-mandated stakeholder inclusion and shareholder-centric investment decisions (p. 6).",
+  "definition_explicit": false,
+  "elements": [
+    "2x2 framework (mandated stakeholder inclusion x shareholder-centric investment)",
+    "Unified Governance / Mandated Stakeholderism / Voluntary Stakeholderism / Institutionalized Inclusivity",
+    "bargaining cycles",
+    "agency costs",
+    "tragedy-of-the-commons"
+  ],
+  "stakeholders": "Managers, stakeholders (communities/third parties), shareholders/investors; 'stakeholders can leverage their legal rights to delay projects' (p. 6); conflict = protracted bargaining, project stalls.",
+  "decision_making": "Yes - 2x2 governance-trap framework.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Moderate & RQ-relevant. Planning-stage cost growth + political funding pulls; 'protracted bargaining cycles' (p. 7); regime contrast - HSR 'progressed rapidly in authoritarian regimes' while liberal democracies delay (p. 6). Not a cyclical electoral model.",
+  "megaproject_coverage": "Full",
+  "megaproject_detail": "HS2; California HSR; Berlin Brandenburg; Trans Mountain.",
+  "misalignment_flag": "Yes",
+  "misalignment_detail": "Adds a political-decision-reversal instance (Sunak cancels HS2 phase 2, 'The facts have changed,' p. 6) and a democracy-vs-authoritarian tempo contrast. Frames delay as stakeholder-bargaining, not electoral entrainment.",
+  "relevance": "High",
+  "gaps": "Governance-trap 2x2 is a ready mechanism to which the electoral clock can be added.",
+  "key_quotes": [
+    "PM Sunak justified cancelling HS2 phase 2 by declaring, 'The facts have changed' (p. 6).",
+    "'stakeholders can leverage their legal rights to delay projects' (p. 6)."
+  ],
+  "coding_notes": "Reuses the shareholder/stakeholder axis from Joslin & Müller (2016). Strong megaproject + political-system framing.",
+  "cluster": "D_political_electoral_multilevel"
+}

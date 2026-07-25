@@ -1,0 +1,34 @@
+{
+  "id": 16,
+  "filename": "Brunet_2021_GovernanceFrameworkEquilibrium.md",
+  "authors": "Maude Brunet",
+  "year": 2021,
+  "doc_type": "journal article",
+  "outlet": "International Journal of Project Management 39, 406-416",
+  "method": "sensemaking + multilevel case (Quebec)",
+  "geography_sector": "Canada (Quebec); public megaproject governance framework",
+  "definition": "Governance framework (Klakegg et al., 2008: S30): 'an organized structure established as authoritative within the institution, comprising processes and rules established to ensure projects meet their purpose.'",
+  "definition_explicit": true,
+  "elements": [
+    "efficiency / legitimacy / accountability",
+    "multilevel mapping",
+    "trust vs control",
+    "sensemaking"
+  ],
+  "stakeholders": "Project actors; ministers/Treasury Board/SQI. Conflict = tensions between objectives/levels.",
+  "decision_making": "Yes - sensemaking + multilevel model; governance-as-policy.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Moderate. 'dynamic aspects'; framework evolution over years; 'a project has a political dimension' (p. 410).",
+  "megaproject_coverage": "Full",
+  "megaproject_detail": "Quebec govt megaproject framework.",
+  "misalignment_flag": "No",
+  "misalignment_detail": "Legitimacy at political level; election timing not a variable.",
+  "relevance": "Medium",
+  "gaps": "Political dimension acknowledged; electoral timing not modelled.",
+  "key_quotes": [
+    "Governance framework = 'an organized structure established as authoritative within the institution, comprising processes and rules established to ensure projects meet their purpose' (Klakegg et al. 2008, p. 406).",
+    "'a project has a political dimension' (p. 410)."
+  ],
+  "coding_notes": "Same author as item 25 (Brunet & Choinière 2024), distinct paper; shares the Klakegg definition.",
+  "cluster": "A_foundations"
+}

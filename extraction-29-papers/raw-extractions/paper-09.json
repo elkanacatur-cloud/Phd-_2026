@@ -1,0 +1,34 @@
+{
+  "id": 9,
+  "filename": "Biesenthal_etal_2018_InstitutionalTheories.md",
+  "authors": "Christopher Biesenthal, Stewart Clegg, Ashwin Mahalingam, Shankar Sankaran",
+  "year": 2018,
+  "doc_type": "journal article",
+  "outlet": "International Journal of Project Management 36, 43-54",
+  "method": "conceptual research agenda (institutional theory)",
+  "geography_sector": "megaprojects (general)",
+  "definition": "No explicit definition - institutional theory. Megaproject via Flyvbjerg (2014, p. 6).",
+  "definition_explicit": false,
+  "elements": [
+    "Scott's three pillars",
+    "institutional logics/entrepreneurs",
+    "embedded agency",
+    "'polycentric governance structures obfuscate hierarchical decision making' (p. 49)"
+  ],
+  "stakeholders": "'widely disparate actors... conflicting interests'; cognitive conflicts hardest (p. 47); institutional entrepreneurship.",
+  "decision_making": "Brief - research agenda.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Duration 'extending beyond the political life cycle of a national government' (p. 45); reverse clocks.",
+  "megaproject_coverage": "Full",
+  "megaproject_detail": "Megaprojects (general).",
+  "misalignment_flag": "Yes",
+  "misalignment_detail": "Names the duration-vs-political-cycle tension; models it nowhere.",
+  "relevance": "Medium",
+  "gaps": "Names the tension the thesis formalises; no model.",
+  "key_quotes": [
+    "Duration 'extending beyond the political life cycle of a national government' (p. 45).",
+    "'polycentric governance structures obfuscate hierarchical decision making' (p. 49)."
+  ],
+  "coding_notes": "Clegg co-authors items 1, 9, 10 - author cluster; institutional-theory bridge to Qiu (2019) and Esposito & Terlizzi (2023).",
+  "cluster": "B_megaprojects_complexity"
+}

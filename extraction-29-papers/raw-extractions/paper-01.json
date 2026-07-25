@@ -1,0 +1,37 @@
+{
+  "id": 1,
+  "filename": "VanMarrewijk_etal_2008.md",
+  "authors": "Alfons van Marrewijk, Stewart R. Clegg, Tyrone S. Pitsis, Marcel Veenswijk",
+  "year": 2008,
+  "doc_type": "journal article",
+  "outlet": "International Journal of Project Management 26, 591-600",
+  "method": "comparative ethnographic case study (Environ, NL; NSTP, Sydney 2000)",
+  "geography_sector": "Netherlands & Australia; public-private transport/infrastructure megaprojects",
+  "definition": "No project-governance definition. PPP = 'structural cooperation between public and private parties to deliver some agreed outcome' (p. 591).",
+  "definition_explicit": false,
+  "elements": [
+    "project design (scope + financial-risk allocation)",
+    "project cultures",
+    "multiple/competing rationalities",
+    "turnkey/concession vs alliance model",
+    "PALT alliance board",
+    "no-blame culture",
+    "risk/reward + community/environment KPIs"
+  ],
+  "stakeholders": "Public + private partners; politicians. Environ: EUR800m overrun -> parliamentary inquiry -> politicians demand control -> ministry centralization. NSTP: no-blame alliance culture resolves conflict.",
+  "decision_making": "Yes (Brief) - comparative case analysis; alliance vs concession decision structures.",
+  "temporality_flag": "Brief",
+  "temporality_detail": "Decade-long PPP phases; political interference framed as disruption to design/culture. No cyclical/electoral clock.",
+  "megaproject_coverage": "Full",
+  "megaproject_detail": "Two PPP megaprojects (Environ NL; North Side Tunnel Project, Sydney 2000 Olympics).",
+  "misalignment_flag": "No",
+  "misalignment_detail": "Political takeover after overrun is a political-time analogue at cabinet scale, but explained via project design/culture, not temporal mismatch.",
+  "relevance": "Medium",
+  "gaps": "Rejects Flyvbjerg 'deception' thesis; explains outcomes via design/culture. Establishes design x culture lens the RQ can layer an electoral clock onto; no recurring political clock.",
+  "key_quotes": [
+    "'structural cooperation between public and private parties to deliver some agreed outcome' (p. 591).",
+    "Project design and project cultures 'play a role in determining how managers and partners cooperate' (abstract)."
+  ],
+  "coding_notes": "Emic/ethnographic; origin of the widely-cited PPP definition. Clegg co-authors both this and Dille et al. (2018) - cross-reference.",
+  "cluster": "B_megaprojects_complexity"
+}

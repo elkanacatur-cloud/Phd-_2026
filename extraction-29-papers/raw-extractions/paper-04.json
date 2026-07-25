@@ -1,0 +1,34 @@
+{
+  "id": 4,
+  "filename": "AraralHartley_2013_Polycentric.md",
+  "authors": "Eduardo Araral, Kris Hartley",
+  "year": 2013,
+  "doc_type": "conference paper",
+  "outlet": "1st International Conference on Public Policy",
+  "method": "comparative case (San Francisco vs Map Ta Phut)",
+  "geography_sector": "USA & Thailand; environmental/water governance",
+  "definition": "Polycentric governance = 'multiple independent actors mutually order their relationships... under a general system of rules' (V. Ostrom).",
+  "definition_explicit": true,
+  "elements": [
+    "multi-level/multi-purpose units",
+    "bounded autonomy",
+    "nested jurisdictions",
+    "common-pool resources",
+    "public-administration paradigms"
+  ],
+  "stakeholders": "Govt + private + civil society coordinate 'around the agenda, not a hegemonic body'; partisan mutual adjustment.",
+  "decision_making": "Yes - comparative case reasoning.",
+  "temporality_flag": "Brief",
+  "temporality_detail": "'polycentricity as a dynamic process, not an event'; path dependency. No electoral cycle.",
+  "megaproject_coverage": "Partial",
+  "megaproject_detail": "Multi-level/multi-jurisdiction core; not megaproject-specific.",
+  "misalignment_flag": "No",
+  "misalignment_detail": "Models polycentric order as stable; electoral clock could perturb it.",
+  "relevance": "Medium",
+  "gaps": "Strongest 'coordination across levels' treatment; no electoral clock.",
+  "key_quotes": [
+    "Polycentric governance = 'multiple independent actors mutually order their relationships... under a general system of rules' (V. Ostrom)."
+  ],
+  "coding_notes": "Scanned/preprint pagination unreliable - cited by concept.",
+  "cluster": "D_political_electoral_multilevel"
+}

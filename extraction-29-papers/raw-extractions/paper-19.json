@@ -1,0 +1,33 @@
+{
+  "id": 19,
+  "filename": "Bourne_etal_2023_MovingGoalsGovernance.md",
+  "authors": "Emma Bourne, Marian Bosch-Rekveldt, Ossi Pesämaa",
+  "year": 2023,
+  "doc_type": "journal article",
+  "outlet": "International Journal of Project Management 41, art. 102486",
+  "method": "typology + alignment/misalignment model; cases",
+  "geography_sector": "Sweden/Netherlands/UK; windfarm, road, hospital programme",
+  "definition": "Governance = 'the system of controls that suggest an overall direction for the project... matching activities, goals, intentions and performance' (p. 2). Müller (2009): 'a subset of corporate governance... value system, responsibilities, accountabilities, ethical principles, and policies.'",
+  "definition_explicit": true,
+  "elements": [
+    "moving goals & moving governance",
+    "where/how/what framework",
+    "six systemic errors (design, experience, bias, phase change, drift, intervention)"
+  ],
+  "stakeholders": "Client, contractor, public reps, steering committee; conflict from misaligned governance levels/mandates.",
+  "decision_making": "Yes - typology (Types 1-4) + alignment/misalignment model (Fig. 4).",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Core & RQ-pointed. 'changes in technology, environmental factors and political pressures will happen over the life of the megaproject' (p. 8); 'drift' = context changes, governance does not adapt.",
+  "megaproject_coverage": "Full",
+  "megaproject_detail": "Windfarm 24 yrs; road; UK govt 'national priority' hospital programme.",
+  "misalignment_flag": "Yes",
+  "misalignment_detail": "Best model of governance that must move over long duration; six systemic errors ready-made for electoral-misfit failures, but external clock is generic.",
+  "relevance": "High",
+  "gaps": "Specialising 'moving governance' to a recurring electoral clock is open work.",
+  "key_quotes": [
+    "Governance = 'the system of controls that suggest an overall direction for the project... matching activities, goals, intentions and performance' (p. 2).",
+    "'changes in technology, environmental factors and political pressures will happen over the life of the megaproject' (p. 8)."
+  ],
+  "coding_notes": "The pivotal moving-governance theory; six systemic errors are a candidate coding scheme for the thesis.",
+  "cluster": "B_megaprojects_complexity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 18,
+  "filename": "Malherbe_2022_CooperatingInterorg.md",
+  "authors": "Michael Malherbe",
+  "year": 2022,
+  "doc_type": "journal article",
+  "outlet": "International Journal of Project Management 40, 871-885",
+  "method": "process case study",
+  "geography_sector": "France; inter-organizational innovation project/ecosystem",
+  "definition": "No governance definition. Cooperation (Calamel et al.): 'the stance or attitude of members... their willingness (or reluctance) to work together' (p. 872).",
+  "definition_explicit": false,
+  "elements": [
+    "coupling (distinctiveness x responsiveness)",
+    "temporary-permanent connection",
+    "ecosystem",
+    "value creation/capture"
+  ],
+  "stakeholders": "16 partners; no hierarchical decider; cooperation oscillates.",
+  "decision_making": "Brief - process case study.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Moderate. Three sequences; pace clash (p. 880). No electoral time.",
+  "megaproject_coverage": "No",
+  "megaproject_detail": "Inter-org core; not megaproject.",
+  "misalignment_flag": "No",
+  "misalignment_detail": "Temporary-permanent coupling; the 'permanent context' could be the government-of-the-day.",
+  "relevance": "Low",
+  "gaps": "Coupling lens transferable; no political clock.",
+  "key_quotes": [
+    "Cooperation = 'the stance or attitude of members... their willingness (or reluctance) to work together' (Calamel et al., p. 872)."
+  ],
+  "coding_notes": "Temporary-permanent coupling is a useful analogue for project-vs-government-of-the-day.",
+  "cluster": "C_temporality_interorg_network"
+}

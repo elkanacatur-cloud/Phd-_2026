@@ -1,0 +1,35 @@
+{
+  "id": 3,
+  "filename": "Sanderson_2012_JPMA1360.md",
+  "authors": "Joe Sanderson",
+  "year": 2012,
+  "doc_type": "journal article",
+  "outlet": "International Journal of Project Management 30, 432-443",
+  "method": "conceptual typology + literature synthesis",
+  "geography_sector": "megaprojects; UK LEPs/PPP",
+  "definition": "Governance = 'forms of organization designed ex ante'; governing = 'spontaneous micro-processes... ex post' (p. 432).",
+  "definition_explicit": true,
+  "elements": [
+    "three explanation-types (rent-seeking / misaligned governance / diverse cultures, Table 3)",
+    "contracts",
+    "alliances",
+    "KPIs",
+    "PALT"
+  ],
+  "stakeholders": "Politicians, contractors, sponsors, participants. Resolution differs per explanation-type.",
+  "decision_making": "Yes - typology on cognition x view of the future.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Ex-ante/ex-post is temporal (p. 436); promoters 'often not in office when the actual viability of a project can be assessed... political capital in the short-term.'",
+  "megaproject_coverage": "Full",
+  "megaproject_detail": "Megaprojects/LEPs, PPP/SPV core.",
+  "misalignment_flag": "Yes",
+  "misalignment_detail": "Electoral-accountability gap named (promoter out of office), framed as rent-seeking rather than recurring misfit.",
+  "relevance": "High",
+  "gaps": "Governing-vs-governance is the dynamic lens; electoral timing named but not modelled.",
+  "key_quotes": [
+    "Governance = 'forms of organization designed ex ante'; governing = 'spontaneous micro-processes... ex post' (p. 432).",
+    "Promoters 'often not in office when the actual viability of a project can be assessed... political capital in the short-term' (p. 436)."
+  ],
+  "coding_notes": "Esposito & Terlizzi (2023) build directly on this governance/governing distinction - cross-reference.",
+  "cluster": "B_megaprojects_complexity"
+}

@@ -1,0 +1,35 @@
+{
+  "id": 28,
+  "filename": "Ika_etal_2025_TakeTimeSeriously_SJM.md",
+  "authors": "Lavagnon A. Ika, Jonas Söderlund, Jeffrey K. Pinto",
+  "year": 2025,
+  "doc_type": "journal article",
+  "outlet": "Scandinavian Journal of Management 41, art. 101403",
+  "method": "conceptual/theory-building",
+  "geography_sector": "temporary organizations (general); megaprojects noted",
+  "definition": "No governance definition. Temporary org = 'a set of organizational actors working together on a complex task over a limited period of time' (Bakker 2010, p. 468).",
+  "definition_explicit": false,
+  "elements": [
+    "4T framework",
+    "three time streams (clock/event/process)",
+    "entrainment",
+    "timing norms",
+    "temporal fit/misfit"
+  ],
+  "stakeholders": "Divergent horizons: 'project managers... short-term concern... project funders... longer-term perspective' (p. 2).",
+  "decision_making": "Brief - conceptual.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Core (dedicated temporality theory). Entrainment = 'temporal fit between project activities and temporal demands imposed by the external environment' (pp. 5-6, incl. 'politics, government regulations'); manager-vs-funder horizons (p. 2).",
+  "megaproject_coverage": "Partial",
+  "megaproject_detail": "Notes megaprojects 'blur the boundaries between temporary and permanent' (p. 3).",
+  "misalignment_flag": "Yes",
+  "misalignment_detail": "The conceptual engine - names entrainment/misfit incl. politics/government - but never instantiates the electoral cycle.",
+  "relevance": "High",
+  "gaps": "Treat the electoral cycle as a zeitgeber the megaproject fails to entrain to.",
+  "key_quotes": [
+    "Entrainment = 'a process of establishing temporal fit between project activities and temporal demands imposed by the external environment (e.g., events)' (pp. 5-6).",
+    "'project managers... short-term concern... project funders... longer-term perspective' (p. 2)."
+  ],
+  "coding_notes": "Söderlund co-authors Dille (2018) and Ika (2025) - the temporal-theory spine of the corpus. Duplicate upload (e62d7f41) not counted.",
+  "cluster": "C_temporality_interorg_network"
+}

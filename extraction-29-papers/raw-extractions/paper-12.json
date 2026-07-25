@@ -1,0 +1,33 @@
+{
+  "id": 12,
+  "filename": "Qiu_etal_2019_InstitutionalComplexity.md",
+  "authors": "Yong Qiu, Hongquan Chen, Zhiyong Sheng, Suzhen Cheng",
+  "year": 2019,
+  "doc_type": "journal article",
+  "outlet": "International Journal of Project Management 37, 425-443",
+  "method": "inductive case study (Hong Kong-Zhuhai-Macao Bridge)",
+  "geography_sector": "China; HZMB cross-border megaproject",
+  "definition": "Governance = 'all of the mechanisms within a project organization that... determine how resources are used and distributed... and resolve conflicts' (p. 427).",
+  "definition_explicit": true,
+  "elements": [
+    "institutional logics",
+    "six complexity types",
+    "four mechanisms (system leaders/localization/hierarchies/flexible design)"
+  ],
+  "stakeholders": "Four governments + designers/contractors/public; 'system leaders... conflicting buffer' (p. 435).",
+  "decision_making": "Yes - inductive framework (Fig. 3).",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Moderate, project-internal. 'evolutionary complexity... dynamic during their entire life cycle' (p. 425).",
+  "megaproject_coverage": "Full",
+  "megaproject_detail": "HZMB cross-border megaproject.",
+  "misalignment_flag": "No",
+  "misalignment_detail": "Concurrent-jurisdiction governments, not electorally refreshed.",
+  "relevance": "Medium",
+  "gaps": "Multi-government structure but no electoral turnover modelled.",
+  "key_quotes": [
+    "Governance = 'all of the mechanisms within a project organization that... determine how resources are used and distributed... and resolve conflicts' (p. 427).",
+    "'evolutionary complexity... dynamic during their entire life cycle' (p. 425)."
+  ],
+  "coding_notes": "Six-complexity typology parallels Esposito & Terlizzi (2023); cited by Pathak (2023).",
+  "cluster": "B_megaprojects_complexity"
+}

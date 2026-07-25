@@ -1,0 +1,33 @@
+{
+  "id": 17,
+  "filename": "WinchSergeeva_2022_TemporalStructuring.md",
+  "authors": "Graham M. Winch, Natalya Sergeeva",
+  "year": 2022,
+  "doc_type": "journal article",
+  "outlet": "International Journal of Project Management 40, 40-51",
+  "method": "theory of projecting futures (narrative)",
+  "geography_sector": "generic; Eden Project & megaprojects cited",
+  "definition": "No governance definition. Project narratives = 'coherent, performative narratives that project an intended future' (p. 44).",
+  "definition_explicit": false,
+  "elements": [
+    "objective/subjective/narrative time",
+    "projectivity",
+    "temporal work",
+    "shaping vs delivery narratives"
+  ],
+  "stakeholders": "Champion, team, external stakeholders; 'convincing oneself; the team; stakeholders.'",
+  "decision_making": "Yes - theory of projecting futures.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Core (theory of project time). Shaping->delivery narratives across the life cycle. No electoral cycle.",
+  "megaproject_coverage": "Partial",
+  "megaproject_detail": "Eden; megaprojects cited.",
+  "misalignment_flag": "No",
+  "misalignment_detail": "Narrative/temporal-work apparatus for re-narration under turnover.",
+  "relevance": "Medium",
+  "gaps": "Supplies re-narration machinery; not pointed at elections.",
+  "key_quotes": [
+    "Project narratives = 'coherent, performative narratives that project an intended future' (p. 44)."
+  ],
+  "coding_notes": "Complements Ika (2025) and Dille (2018) on the temporal-machinery side.",
+  "cluster": "C_temporality_interorg_network"
+}

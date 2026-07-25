@@ -1,0 +1,33 @@
+{
+  "id": 21,
+  "filename": "Pathak_etal_2023_InterorgGovernanceMegaprojects.md",
+  "authors": "Raj Pathak, Neil Turner, Leila Alinaghian",
+  "year": 2023,
+  "doc_type": "working paper (systematic review)",
+  "outlet": "Cranfield working paper",
+  "method": "systematic literature review (4,536->81 papers; Gioia method)",
+  "geography_sector": "megaproject governance (global corpus)",
+  "definition": "Turner (2006): governance 'provides the structure through which the objectives of the project are set, the means of attaining those objectives... and the means of monitoring performance are determined'; APM (2019, p. 212): 'the framework of authority and accountability that defines and controls outputs, outcomes and benefits.'",
+  "definition_explicit": true,
+  "elements": [
+    "aspects (inter-org, multi-level, evolutionary)",
+    "mechanisms (formal: alliance, process/institutional framework, contract, assurance/governmental, goal-alignment; informal: network, trust, relationship mgmt)",
+    "enablers (leadership, collaboration, stakeholder mgmt, culture)"
+  ],
+  "stakeholders": "Multi-party; owner/client, governments, contractors, suppliers; 'no actor has total control and authority over all others' (von Danwitz).",
+  "decision_making": "Yes - thematic review (Gioia three-stage coding).",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Moderate. Governance 'is regarded as dynamic, processual and anchored in multiple levels' (Abstract); evolutionary governance - 'governance issues as being static, but project development processes and environments are dynamic... governance regimes must adapt... and change as the project development process unfolds' (p. 9). No electoral cycle.",
+  "megaproject_coverage": "Full",
+  "megaproject_detail": "Systematic review of megaproject governance; inter-org core.",
+  "misalignment_flag": "No",
+  "misalignment_detail": "Names multi-level & evolutionary governance and future-research topics (governance at different levels; IPD (mis)alignment) - but no electoral/temporal-misalignment agenda.",
+  "relevance": "Medium",
+  "gaps": "Field-level confirmation of multi-level + evolutionary governance; no electoral-temporal agenda named.",
+  "key_quotes": [
+    "Governance 'is regarded as dynamic, processual and anchored in multiple levels' (Abstract).",
+    "'governance regimes must adapt... and change as the project development process unfolds' (Miller & Hobbs, via p. 9)."
+  ],
+  "coding_notes": "Cites items 5, 6, 12, 13, 15 in this corpus - a citation hub. Neil Turner distinct from Rodney Turner (item 14).",
+  "cluster": "B_megaprojects_complexity"
+}

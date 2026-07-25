@@ -1,0 +1,32 @@
+{
+  "id": 13,
+  "filename": "Denicol_2020_ReinventingMegaprojectDelivery.md",
+  "authors": "Juliano Denicol",
+  "year": 2020,
+  "doc_type": "white paper / report",
+  "outlet": "PMI White Paper",
+  "method": "case synthesis (6 UK megaprojects)",
+  "geography_sector": "UK; infrastructure megaprojects",
+  "definition": "'clearly defined governance structure... to organize the inter-organizational relationships between sponsors, clients, delivery partners, and the supply chain' (Exec. Summary).",
+  "definition_explicit": true,
+  "elements": [
+    "megaproject multilayer/multilevel structure",
+    "owner/sponsor/client/delivery-partner/operator roles",
+    "client as supply-chain architect"
+  ],
+  "stakeholders": "Sponsor/client/delivery-partner; roles 'nonstatic and evolutionary... throughout the project life cycle.'",
+  "decision_making": "Yes - supply-chain-architecture lens.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Moderate. Roles 'nonstatic and evolutionary... throughout the project life cycle'; short-term-results tendency.",
+  "megaproject_coverage": "Full",
+  "megaproject_detail": "6 UK megaprojects; deeply inter-org.",
+  "misalignment_flag": "No",
+  "misalignment_detail": "Client-role evolution over life cycle + a government-sponsor node an electoral turnover would disrupt.",
+  "relevance": "Medium",
+  "gaps": "Evolving roles but no external electoral clock.",
+  "key_quotes": [
+    "Roles have a 'nonstatic and evolutionary nature throughout the project life cycle' (Exec. Summary)."
+  ],
+  "coding_notes": "PSO framework cited by Pathak (2023).",
+  "cluster": "B_megaprojects_complexity"
+}

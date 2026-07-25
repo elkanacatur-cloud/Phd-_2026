@@ -1,0 +1,34 @@
+{
+  "id": 20,
+  "filename": "EspositoTerlizzi_2023_GoverningWickedness.md",
+  "authors": "Giovanni Esposito, Andrea Terlizzi",
+  "year": 2023,
+  "doc_type": "journal article",
+  "outlet": "Policy and Society 42(2), 131-147",
+  "method": "discursive + institutional framework (builds on Sanderson)",
+  "geography_sector": "megaprojects as wicked policy fields; multi-level govt",
+  "definition": "Megaprojects as wicked policy fields (complexity/uncertainty/conflict, p. 131); 'socioeconomic logic of megaproject governance' vs 'techno-economic... management' (p. 138).",
+  "definition_explicit": true,
+  "elements": [
+    "six complexity types incl. political-administrative (multiple governments)",
+    "discursive + institutional",
+    "embedded agency",
+    "narratives"
+  ],
+  "stakeholders": "Managers, policy-makers, citizens, movements; conflict can 'stop, suspend, delay, or amend' (p. 138).",
+  "decision_making": "Yes - discursive + institutional framework.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Moderate. 'megaprojects may take many years... how actors perceive the future is crucial' (p. 137); linear vs complex policy time; 'changes in political commitment.'",
+  "megaproject_coverage": "Full",
+  "megaproject_detail": "Wicked policy fields; multi-level govt.",
+  "misalignment_flag": "Yes",
+  "misalignment_detail": "Nonlinear policy-process framing where conflict can 'delay... or amend'; electoral clock not modelled.",
+  "relevance": "Medium",
+  "gaps": "Policy-time framing; no explicit electoral cycle.",
+  "key_quotes": [
+    "Conflict can 'stop, suspend, delay, or amend' a megaproject (p. 138).",
+    "'megaprojects may take many years... how actors perceive the future is crucial' (p. 137)."
+  ],
+  "coding_notes": "Extends Sanderson (2012); six-complexity typology parallels Qiu (2019).",
+  "cluster": "B_megaprojects_complexity"
+}

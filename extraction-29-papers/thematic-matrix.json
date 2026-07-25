@@ -1,0 +1,563 @@
+{
+  "clusters": {
+    "A_foundations": [
+      2,
+      5,
+      6,
+      7,
+      14,
+      16,
+      26
+    ],
+    "B_megaprojects_complexity": [
+      1,
+      3,
+      9,
+      12,
+      13,
+      15,
+      19,
+      20,
+      21
+    ],
+    "C_temporality_interorg_network": [
+      10,
+      17,
+      18,
+      22,
+      23,
+      28
+    ],
+    "D_political_electoral_multilevel": [
+      4,
+      8,
+      11,
+      24,
+      25,
+      27,
+      29
+    ]
+  },
+  "papers": [
+    {
+      "id": 1,
+      "paper": "Marrewijk et al._2008",
+      "year": 2008,
+      "cluster": "B_megaprojects_complexity",
+      "definition_explicit": false,
+      "temporality": "Brief",
+      "megaproject": "Full",
+      "misalignment": "No",
+      "relevance": "Medium",
+      "elements": [
+        "project design (scope + financial-risk allocation)",
+        "project cultures",
+        "multiple/competing rationalities",
+        "turnkey/concession vs alliance model",
+        "PALT alliance board",
+        "no-blame culture",
+        "risk/reward + community/environment KPIs"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 2,
+      "paper": "Müller_2009",
+      "year": 2009,
+      "cluster": "A_foundations",
+      "definition_explicit": false,
+      "temporality": "Yes",
+      "megaproject": "No",
+      "misalignment": "No",
+      "relevance": "Low",
+      "elements": [
+        "three-step capability model",
+        "PMOs",
+        "sponsors",
+        "audits",
+        "certification",
+        "maturity models",
+        "four governance paradigms"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 3,
+      "paper": "Sanderson_2012",
+      "year": 2012,
+      "cluster": "B_megaprojects_complexity",
+      "definition_explicit": true,
+      "temporality": "Yes",
+      "megaproject": "Full",
+      "misalignment": "Yes",
+      "relevance": "High",
+      "elements": [
+        "three explanation-types (rent-seeking / misaligned governance / diverse cultures, Table 3)",
+        "contracts",
+        "alliances",
+        "KPIs",
+        "PALT"
+      ],
+      "discusses_electoral_cycle": true
+    },
+    {
+      "id": 4,
+      "paper": "Araral et al._2013",
+      "year": 2013,
+      "cluster": "D_political_electoral_multilevel",
+      "definition_explicit": true,
+      "temporality": "Brief",
+      "megaproject": "Partial",
+      "misalignment": "No",
+      "relevance": "Medium",
+      "elements": [
+        "multi-level/multi-purpose units",
+        "bounded autonomy",
+        "nested jurisdictions",
+        "common-pool resources",
+        "public-administration paradigms"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 5,
+      "paper": "Ahola et al._2014",
+      "year": 2014,
+      "cluster": "A_foundations",
+      "definition_explicit": true,
+      "temporality": "Yes",
+      "megaproject": "Partial",
+      "misalignment": "No",
+      "relevance": "Medium",
+      "elements": [
+        "narrow (contract type) -> broad (principles/documentation/communication)",
+        "TCE + agency origins"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 6,
+      "paper": "Biesenthal et al._2014",
+      "year": 2014,
+      "cluster": "A_foundations",
+      "definition_explicit": true,
+      "temporality": "Brief",
+      "megaproject": "Partial",
+      "misalignment": "No",
+      "relevance": "Low",
+      "elements": [
+        "structure, process and role",
+        "multi-level (project/PMO/parent)",
+        "five theories"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 7,
+      "paper": "Joslin et al._2016",
+      "year": 2016,
+      "cluster": "A_foundations",
+      "definition_explicit": true,
+      "temporality": "No",
+      "megaproject": "No",
+      "misalignment": "No",
+      "relevance": "Low",
+      "elements": [
+        "governance paradigms: shareholder-stakeholder orientation x behavior-outcome control (Müller & Lecoeuvre 2014)",
+        "agency vs stewardship theory"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 8,
+      "paper": "Menga_2018",
+      "year": 2018,
+      "cluster": "D_political_electoral_multilevel",
+      "definition_explicit": false,
+      "temporality": "Yes",
+      "megaproject": "Full",
+      "misalignment": "Yes",
+      "relevance": "High",
+      "elements": [
+        "megaproject ideology (progress/inevitable/national symbols)",
+        "discourse",
+        "high modernism"
+      ],
+      "discusses_electoral_cycle": true
+    },
+    {
+      "id": 9,
+      "paper": "Biesenthal et al._2018",
+      "year": 2018,
+      "cluster": "B_megaprojects_complexity",
+      "definition_explicit": false,
+      "temporality": "Yes",
+      "megaproject": "Full",
+      "misalignment": "Yes",
+      "relevance": "Medium",
+      "elements": [
+        "Scott's three pillars",
+        "institutional logics/entrepreneurs",
+        "embedded agency",
+        "'polycentric governance structures obfuscate hierarchical decision making' (p. 49)"
+      ],
+      "discusses_electoral_cycle": true
+    },
+    {
+      "id": 10,
+      "paper": "Dille et al._2018",
+      "year": 2018,
+      "cluster": "C_temporality_interorg_network",
+      "definition_explicit": false,
+      "temporality": "Yes",
+      "megaproject": "Full",
+      "misalignment": "Yes",
+      "relevance": "High",
+      "elements": [
+        "time-reckoning systems",
+        "timing norms (sequence, duration, rhythm, frequency)",
+        "three strategies: temporal avoidance / splitting / matching",
+        "dynamic temporal zone",
+        "isochronism",
+        "monochronicity/polychronicity"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 11,
+      "paper": "Livert et al._2019",
+      "year": 2019,
+      "cluster": "D_political_electoral_multilevel",
+      "definition_explicit": false,
+      "temporality": "Yes",
+      "megaproject": "No",
+      "misalignment": "Yes",
+      "relevance": "High",
+      "elements": [
+        "multilevel (local/regional/central)",
+        "fragmented metro",
+        "intergovernmental transfers",
+        "social capital"
+      ],
+      "discusses_electoral_cycle": true
+    },
+    {
+      "id": 12,
+      "paper": "Qiu et al._2019",
+      "year": 2019,
+      "cluster": "B_megaprojects_complexity",
+      "definition_explicit": true,
+      "temporality": "Yes",
+      "megaproject": "Full",
+      "misalignment": "No",
+      "relevance": "Medium",
+      "elements": [
+        "institutional logics",
+        "six complexity types",
+        "four mechanisms (system leaders/localization/hierarchies/flexible design)"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 13,
+      "paper": "Denicol_2020",
+      "year": 2020,
+      "cluster": "B_megaprojects_complexity",
+      "definition_explicit": true,
+      "temporality": "Yes",
+      "megaproject": "Full",
+      "misalignment": "No",
+      "relevance": "Medium",
+      "elements": [
+        "megaproject multilayer/multilevel structure",
+        "owner/sponsor/client/delivery-partner/operator roles",
+        "client as supply-chain architect"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 14,
+      "paper": "Turner_2020",
+      "year": 2020,
+      "cluster": "A_foundations",
+      "definition_explicit": true,
+      "temporality": "Brief",
+      "megaproject": "No",
+      "misalignment": "No",
+      "relevance": "Medium",
+      "elements": [
+        "governmentality types x governance",
+        "six psychological constructs",
+        "OECD principles"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 15,
+      "paper": "Sainati et al._2020",
+      "year": 2020,
+      "cluster": "B_megaprojects_complexity",
+      "definition_explicit": true,
+      "temporality": "No",
+      "megaproject": "Full",
+      "misalignment": "No",
+      "relevance": "Low",
+      "elements": [
+        "SPVs",
+        "four SPV types",
+        "15 functions",
+        "contracts 'control, coordination, adaptation' (p. 244)"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 16,
+      "paper": "Brunet_2021",
+      "year": 2021,
+      "cluster": "A_foundations",
+      "definition_explicit": true,
+      "temporality": "Yes",
+      "megaproject": "Full",
+      "misalignment": "No",
+      "relevance": "Medium",
+      "elements": [
+        "efficiency / legitimacy / accountability",
+        "multilevel mapping",
+        "trust vs control",
+        "sensemaking"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 17,
+      "paper": "Winch et al._2022",
+      "year": 2022,
+      "cluster": "C_temporality_interorg_network",
+      "definition_explicit": false,
+      "temporality": "Yes",
+      "megaproject": "Partial",
+      "misalignment": "No",
+      "relevance": "Medium",
+      "elements": [
+        "objective/subjective/narrative time",
+        "projectivity",
+        "temporal work",
+        "shaping vs delivery narratives"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 18,
+      "paper": "Malherbe_2022",
+      "year": 2022,
+      "cluster": "C_temporality_interorg_network",
+      "definition_explicit": false,
+      "temporality": "Yes",
+      "megaproject": "No",
+      "misalignment": "No",
+      "relevance": "Low",
+      "elements": [
+        "coupling (distinctiveness x responsiveness)",
+        "temporary-permanent connection",
+        "ecosystem",
+        "value creation/capture"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 19,
+      "paper": "Bourne et al._2023",
+      "year": 2023,
+      "cluster": "B_megaprojects_complexity",
+      "definition_explicit": true,
+      "temporality": "Yes",
+      "megaproject": "Full",
+      "misalignment": "Yes",
+      "relevance": "High",
+      "elements": [
+        "moving goals & moving governance",
+        "where/how/what framework",
+        "six systemic errors (design, experience, bias, phase change, drift, intervention)"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 20,
+      "paper": "Esposito et al._2023",
+      "year": 2023,
+      "cluster": "B_megaprojects_complexity",
+      "definition_explicit": true,
+      "temporality": "Yes",
+      "megaproject": "Full",
+      "misalignment": "Yes",
+      "relevance": "Medium",
+      "elements": [
+        "six complexity types incl. political-administrative (multiple governments)",
+        "discursive + institutional",
+        "embedded agency",
+        "narratives"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 21,
+      "paper": "Pathak et al._2023",
+      "year": 2023,
+      "cluster": "B_megaprojects_complexity",
+      "definition_explicit": true,
+      "temporality": "Yes",
+      "megaproject": "Full",
+      "misalignment": "No",
+      "relevance": "Medium",
+      "elements": [
+        "aspects (inter-org, multi-level, evolutionary)",
+        "mechanisms (formal: alliance, process/institutional framework, contract, assurance/governmental, goal-alignment; informal: network, trust, relationship mgmt)",
+        "enablers (leadership, collaboration, stakeholder mgmt, culture)"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 22,
+      "paper": "Unterhitzenberger et al._2023",
+      "year": 2023,
+      "cluster": "C_temporality_interorg_network",
+      "definition_explicit": true,
+      "temporality": "Yes",
+      "megaproject": "Full",
+      "misalignment": "No",
+      "relevance": "High",
+      "elements": [
+        "three levels: metagovernance / governance of networks / network governance",
+        "Type I (hierarchical) & Type II (nonhierarchical)",
+        "metagovernance set by 'public government organizations or private large-scale investors'"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 23,
+      "paper": "Beck et al._2024",
+      "year": 2024,
+      "cluster": "C_temporality_interorg_network",
+      "definition_explicit": false,
+      "temporality": "Yes",
+      "megaproject": "No",
+      "misalignment": "No",
+      "relevance": "Low",
+      "elements": [
+        "five HRO principles",
+        "four boundary types",
+        "boundary objects"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 24,
+      "paper": "Afieroho et al._2024",
+      "year": 2024,
+      "cluster": "D_political_electoral_multilevel",
+      "definition_explicit": false,
+      "temporality": "Yes",
+      "megaproject": "Full",
+      "misalignment": "Yes",
+      "relevance": "High",
+      "elements": [
+        "meta-governance ('coordination of... governance modes... to overcome governance failures')",
+        "community engagement",
+        "weak institutions"
+      ],
+      "discusses_electoral_cycle": true
+    },
+    {
+      "id": 25,
+      "paper": "Brunet et al._2024",
+      "year": 2024,
+      "cluster": "D_political_electoral_multilevel",
+      "definition_explicit": true,
+      "temporality": "Yes",
+      "megaproject": "Full",
+      "misalignment": "Yes",
+      "relevance": "High",
+      "elements": [
+        "institutional layering",
+        "path dependency",
+        "policy cycle",
+        "regulative/normative pillars",
+        "five iterations of instruments/actors"
+      ],
+      "discusses_electoral_cycle": true
+    },
+    {
+      "id": 26,
+      "paper": "Bakhshi et al._2025",
+      "year": 2025,
+      "cluster": "A_foundations",
+      "definition_explicit": true,
+      "temporality": "Yes",
+      "megaproject": "Partial",
+      "misalignment": "Yes",
+      "relevance": "Medium",
+      "elements": [
+        "from control to adaptation",
+        "five approaches",
+        "theory map (agency/TCE/institutional/stakeholder/network/complexity)",
+        "adaptive & temporal governance flagged"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 27,
+      "paper": "Gil et al._2025",
+      "year": 2025,
+      "cluster": "D_political_electoral_multilevel",
+      "definition_explicit": false,
+      "temporality": "Yes",
+      "megaproject": "Full",
+      "misalignment": "Yes",
+      "relevance": "High",
+      "elements": [
+        "2x2 framework (mandated stakeholder inclusion x shareholder-centric investment)",
+        "Unified Governance / Mandated Stakeholderism / Voluntary Stakeholderism / Institutionalized Inclusivity",
+        "bargaining cycles",
+        "agency costs",
+        "tragedy-of-the-commons"
+      ],
+      "discusses_electoral_cycle": true
+    },
+    {
+      "id": 28,
+      "paper": "Ika et al._2025",
+      "year": 2025,
+      "cluster": "C_temporality_interorg_network",
+      "definition_explicit": false,
+      "temporality": "Yes",
+      "megaproject": "Partial",
+      "misalignment": "Yes",
+      "relevance": "High",
+      "elements": [
+        "4T framework",
+        "three time streams (clock/event/process)",
+        "entrainment",
+        "timing norms",
+        "temporal fit/misfit"
+      ],
+      "discusses_electoral_cycle": false
+    },
+    {
+      "id": 29,
+      "paper": "Delcayre et al._2025",
+      "year": 2025,
+      "cluster": "D_political_electoral_multilevel",
+      "definition_explicit": false,
+      "temporality": "Yes",
+      "megaproject": "No",
+      "misalignment": "Yes",
+      "relevance": "High",
+      "elements": [
+        "external / internal / personal constraint factors",
+        "typology NIMEY / NIMTOO / ideological",
+        "structuration & embedded agency"
+      ],
+      "discusses_electoral_cycle": true
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 14,
+  "filename": "Turner_2020_GovernmentalityGovernance.md",
+  "authors": "J. Rodney Turner",
+  "year": 2020,
+  "doc_type": "journal article",
+  "outlet": "Project Leadership and Society 1, art. 100003",
+  "method": "conceptual model + six cases",
+  "geography_sector": "generic; mixed cases (incl. Amsterdam)",
+  "definition": "Governance = 'Framework for managers to do work' vs governmentality = 'the way governors interact with those they govern' (Table 2).",
+  "definition_explicit": true,
+  "elements": [
+    "governmentality types x governance",
+    "six psychological constructs",
+    "OECD principles"
+  ],
+  "stakeholders": "Board sets governmentality; PM sovereignty scale; Amsterdam principal-agency->stewardship shift.",
+  "decision_making": "Yes - governance->decision->performance; six cases.",
+  "temporality_flag": "Brief",
+  "temporality_detail": "Governmentality 'changes... from design to execution' (p. 7). No electoral time.",
+  "megaproject_coverage": "No",
+  "megaproject_detail": "Mixed cases.",
+  "misalignment_flag": "No",
+  "misalignment_detail": "Governmentality localises where an election bites; Amsterdam restructuring is an analogue.",
+  "relevance": "Medium",
+  "gaps": "Structure/governmentality split is a key RQ tool; no electoral clock.",
+  "key_quotes": [
+    "Governance = 'Framework for managers to do work'; governmentality = 'the way governors interact with those they govern' (Table 2, p. 4)."
+  ],
+  "coding_notes": "Governmentality lens reused by Afieroho (2024).",
+  "cluster": "A_foundations"
+}

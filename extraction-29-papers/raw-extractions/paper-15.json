@@ -1,0 +1,33 @@
+{
+  "id": 15,
+  "filename": "Sainati_etal_2020_SPVs.md",
+  "authors": "Tristano Sainati, Giorgio Locatelli, Nigel Smith, Naomi Brookes, Gordon Olver",
+  "year": 2020,
+  "doc_type": "journal article",
+  "outlet": "International Journal of Project Management 38, 243-255",
+  "method": "grounded-theory classification; transaction-cost theory",
+  "geography_sector": "PPP/project-finance infrastructure megaprojects",
+  "definition": "'Project governance defines both the organisational structures and processes to govern the project... assigning project roles and responsibilities' (p. 244).",
+  "definition_explicit": true,
+  "elements": [
+    "SPVs",
+    "four SPV types",
+    "15 functions",
+    "contracts 'control, coordination, adaptation' (p. 244)"
+  ],
+  "stakeholders": "Holders of 'a legal, or contractual, claim'; SPVs cluster stakeholders; lenders control.",
+  "decision_making": "Yes - grounded-theory classification.",
+  "temporality_flag": "No",
+  "temporality_detail": "Minimal - SPV 'liquidated when... functions... accomplished' (p. 252). Does not treat temporality.",
+  "megaproject_coverage": "Full",
+  "megaproject_detail": "PPP/PF megaprojects.",
+  "misalignment_flag": "No",
+  "misalignment_detail": "Static architecture; formal-instrument layer only.",
+  "relevance": "Low",
+  "gaps": "The durable contractual/SPV layer against which cyclical metagovernance could be contrasted.",
+  "key_quotes": [
+    "'Project governance defines both the organisational structures and processes to govern the project... assigning project roles and responsibilities to project stakeholders' (p. 244)."
+  ],
+  "coding_notes": "Represents the static formal-instrument end of the spectrum.",
+  "cluster": "B_megaprojects_complexity"
+}

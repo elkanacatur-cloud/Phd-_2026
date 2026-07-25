@@ -1,0 +1,33 @@
+{
+  "id": 22,
+  "filename": "Unterhitzenberger_etal_2023_MultilevelGovernanceModel.md",
+  "authors": "Christine Unterhitzenberger, Ralf Müller, Anne Live Vaagaasar, Yongjian Ke et al.",
+  "year": 2023,
+  "doc_type": "journal article",
+  "outlet": "Project Management Journal 54(1), 88-105",
+  "method": "validated predictive multilevel model (mediation/moderation, N=225)",
+  "geography_sector": "interorganizational project networks; megaprojects",
+  "definition": "Governance = 'the framework that outlines the boundaries for management's execution of their tasks and what they will be held accountable for' (Müller 2019); 'rules, relationships, systems, and processes for exercising... authority' (p. 88).",
+  "definition_explicit": true,
+  "elements": [
+    "three levels: metagovernance / governance of networks / network governance",
+    "Type I (hierarchical) & Type II (nonhierarchical)",
+    "metagovernance set by 'public government organizations or private large-scale investors'"
+  ],
+  "stakeholders": "Sponsor/owner/investor set metagovernance; prime contractor, subcontractors, delivery partners; accountabilities/responsibilities.",
+  "decision_making": "Yes - validated predictive multilevel model.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Moderate. 'governance over time'; networks 'evolve throughout the project life cycle'; metagovernance 'allows for continuous adaptation... over time.' No electoral cycle.",
+  "megaproject_coverage": "Full",
+  "megaproject_detail": "Interorg project networks; megaprojects; N=225.",
+  "misalignment_flag": "No",
+  "misalignment_detail": "Metagovernance 'set by... public government organizations' - the exact top layer an electoral change perturbs. Model directly usable.",
+  "relevance": "High",
+  "gaps": "The vertical stack localises where an election bites; electoral clock not modelled.",
+  "key_quotes": [
+    "Governance = 'the framework that outlines the boundaries for management's execution of their tasks and what they will be held accountable for' (Müller 2019, p. 88).",
+    "Metagovernance is 'set by the owner or investor,' incl. 'public government organizations' (pp. 88-89)."
+  ],
+  "coding_notes": "The three-level stack is a primary structural tool for the thesis; Müller author cluster (items 2,7,22).",
+  "cluster": "C_temporality_interorg_network"
+}

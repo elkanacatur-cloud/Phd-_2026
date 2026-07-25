@@ -1,0 +1,32 @@
+{
+  "id": 5,
+  "filename": "Ahola_etal_2014_WhatIsProjectGovernance.md",
+  "authors": "Tuomas Ahola, Inkeri Ruuska, Karlos Artto, Jaakko Kujala",
+  "year": 2014,
+  "doc_type": "journal article",
+  "outlet": "International Journal of Project Management 32, 1321-1332",
+  "method": "bibliometric citation analysis",
+  "geography_sector": "generic/inter-firm large projects",
+  "definition": "Two streams: external to / internal to a project; 'there is clearly a lack of a shared and universally accepted view of what project governance actually is' (p. 1324).",
+  "definition_explicit": true,
+  "elements": [
+    "narrow (contract type) -> broad (principles/documentation/communication)",
+    "TCE + agency origins"
+  ],
+  "stakeholders": "External: project-based firm vs project (agency). Internal: multiple firms with conflicting short/long-term goals + shared mechanisms.",
+  "decision_making": "Yes - two-stream map.",
+  "temporality_flag": "Yes",
+  "temporality_detail": "Governance as 'continuous... process' vs 'relatively static set of mechanisms' (pp. 1323-24); public projects tied to 'political processes that are dynamic and often difficult to predict' (p. 1325).",
+  "megaproject_coverage": "Partial",
+  "megaproject_detail": "Inter-org core (multi-firm large projects).",
+  "misalignment_flag": "No",
+  "misalignment_detail": "Flags political-process unpredictability and static-vs-dynamic debate; no electoral model.",
+  "relevance": "Medium",
+  "gaps": "Frames the static-vs-dynamic governance question the RQ inherits.",
+  "key_quotes": [
+    "'there is clearly a lack of a shared and universally accepted view of what project governance actually is' (p. 1324).",
+    "Governance as 'continuous... process' vs 'relatively static set of mechanisms' (pp. 1323-24)."
+  ],
+  "coding_notes": "The external/internal cut is the field's organizing frame; cited by Bakhshi (2025), Pathak (2023).",
+  "cluster": "A_foundations"
+}
