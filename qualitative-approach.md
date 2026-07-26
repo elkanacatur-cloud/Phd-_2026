@@ -29,11 +29,9 @@ the methodological choice as a decision between a mono method, a multi-method, a
 mixed-methods design. This study selects a multi-method qualitative study: it uses more
 than one qualitative data collection technique, semi-structured interviewing and
 qualitative document analysis, each with its corresponding qualitative analysis
-procedures. It does not combine quantitative and qualitative techniques, which is what
-would make the design mixed methods (Saunders et al., 2023). Numerical records such as
-project timelines and budget figures enter as documentary evidence read qualitatively
-for what they reveal about decisions and their timing, not as data for statistical
-inference.
+procedures. Numerical records such as project timelines and budget figures enter as
+documentary evidence read qualitatively for what they reveal about decisions and their
+timing.
 
 The empirical work runs across two studies with complementary designs. Study 2 draws on
 semi-structured interviews with actors involved in project governance to generate the
