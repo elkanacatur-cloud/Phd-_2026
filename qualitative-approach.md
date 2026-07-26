@@ -24,8 +24,9 @@ distribution of a variable across a population. A quantitative design would sit 
 with these aims, because critical realism treats the social world as an open system in
 which the constant conjunctions that statistical inference depends on rarely hold
 (Fletcher, 2017), and standardised measurement would strip the temporal accounts of the
-contextual detail the analysis needs. In Saunders et al.'s (2023)
-terms, the methodological choice here is a multi-method qualitative study: it uses more
+contextual detail the analysis needs. Saunders et al. (2023) frame
+the methodological choice as a decision between a mono method, a multi-method, and a
+mixed-methods design. This study selects a multi-method qualitative study: it uses more
 than one qualitative data collection technique, semi-structured interviewing and
 qualitative document analysis, each with its corresponding qualitative analysis
 procedures. It does not combine quantitative and qualitative techniques, which is what
