@@ -29,17 +29,17 @@ unnecessary: extensive data such as project timelines and budget records inform 
 analysis, but they enter as documentary evidence within a single qualitative strategy
 rather than as a separate quantitative strand with its own inferential machinery.
 
-The study adopts a case study strategy, which allows an in-depth examination of a
-contemporary phenomenon within its real setting where the researcher cannot control the
-conditions (Yin, 2018). Two data sources carry the empirical work in Papers 2 and 3.
-Semi-structured interviews with actors involved in project governance provide the
+The empirical work runs across two studies with complementary designs. Study 2 draws on
+semi-structured interviews with actors involved in project governance to generate the
 intensive, interpretive data through which mechanisms become visible; a flexible guide
 keeps the conversation aligned with the theoretical framework while staying open to
-themes the participants raise (Fletcher, 2017; Silverman, 2020). Documentary sources,
-including audit reports, project reviews, and budget records, supply a parallel record
-of decisions and timelines that can be read against the interview accounts. Reading the
-two sources together lets the analysis cross-check claims and guard against retrospective
-rationalisation in the interview material.
+themes the participants raise (Fletcher, 2017; Silverman, 2020). Study 3 adopts a case
+study strategy, which examines a contemporary phenomenon within its real setting where
+the researcher cannot control the conditions (Yin, 2018), drawing on documentary sources
+such as audit reports, project reviews, and budget records that register decisions and
+timelines over the life of the project. Read together across the two studies, interview
+and documentary evidence let the analysis cross-check claims and guard against
+retrospective rationalisation in the interview material.
 
 Recent megaproject research shows this combination at work. Sekasi et al. (2025) study
 the California High-Speed Rail Project through a critical realist lens, drawing on
