@@ -49,11 +49,11 @@ Recent megaproject research shows this combination at work. Sekasi et al. (2025)
 the California High-Speed Rail Project through a critical realist lens, drawing on
 thirteen semi-structured interviews and an extensive body of project documentation to
 trace how governance, contracts, and culture interact to produce cost overruns and
-schedule delays. Their design demonstrates that intensive interview data and documentary
-evidence, analysed together, can surface the causal mechanisms behind megaproject
-performance rather than describe its symptoms alone. The present study follows a similar
-path but directs the analysis toward temporal misalignment, asking how the cyclical
-rhythm of electoral politics and the long horizon of megaproject delivery generate the
-timing conflicts identified in the framework. This qualitative strategy therefore serves
-the study's central aim of explaining why the two cycles fall out of step and what
-follows when they do.
+schedule delays. Their design shows that interviews and documents, analysed together, can
+move the analysis from the symptoms of megaproject underperformance to the mechanisms
+that generate them. The present study adopts the same combination for a different
+question: it applies a critical realist interview-and-document design to temporal
+misalignment, using it to identify the mechanisms behind the timing conflicts between
+electoral cycles and megaproject delivery. Sekasi et al.'s study therefore serves as a
+methodological template rather than a substantive parallel, showing that this qualitative
+design can carry the explanatory work this study asks of it.
