@@ -24,12 +24,15 @@ distribution of a variable across a population. A quantitative design would sit 
 with these aims, because critical realism treats the social world as an open system in
 which the constant conjunctions that statistical inference depends on rarely hold
 (Fletcher, 2017), and standardised measurement would strip the temporal accounts of the
-contextual detail the analysis needs. The design is likewise not mixed-methods but
-multi-method qualitative: it combines more than one qualitative technique,
-semi-structured interviewing and document analysis, within a single qualitative strategy
-(Saunders et al., 2023). Quantitative material such as project timelines and budget
-figures still informs the work, but it enters as documentary evidence to be interpreted
-rather than as a separate quantitative strand carrying its own inferential machinery.
+contextual detail the analysis needs. In Saunders et al.'s (2023)
+terms, the methodological choice here is a multi-method qualitative study: it uses more
+than one qualitative data collection technique, semi-structured interviewing and
+qualitative document analysis, each with its corresponding qualitative analysis
+procedures. It does not combine quantitative and qualitative techniques, which is what
+would make the design mixed methods (Saunders et al., 2023). Numerical records such as
+project timelines and budget figures enter as documentary evidence read qualitatively
+for what they reveal about decisions and their timing, not as data for statistical
+inference.
 
 The empirical work runs across two studies with complementary designs. Study 2 draws on
 semi-structured interviews with actors involved in project governance to generate the
