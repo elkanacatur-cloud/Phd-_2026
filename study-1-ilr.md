@@ -20,7 +20,7 @@ The search then proceeds through six steps.
 
 **Step 1. Preliminary scoping.** The review identifies foundational sources from the relevant sub-fields and extracts the keywords those sources use to name temporality, misalignment, and megaprojects.
 
-**Step 2. Search string development.** The keywords are organised into the three conceptual blocks, combined with OR within each block and AND across blocks, so that a record must carry a term from all three blocks. A pilot search refined the string by removing terms that retrieved off-topic results, and the full string appears in Appendix [X].
+**Step 2. Search string development.** The keywords are organised into the three conceptual blocks. Within each block the terms are joined by OR, and the three blocks are joined by AND, so that a retrieved record carries at least one term from every block, in the form [(temporality terms) AND (misalignment terms) AND (megaproject terms)]. The asterisk (*) denotes truncation, which retrieves grammatical and plural variants of a term, as in temporal* for temporal, temporality, and temporally; where placed within a word it also captures spelling variants, as in r*ythm* for rhythm and rythm. A pilot search refined the string by removing terms that retrieved off-topic results, and the full string appears in Appendix [X].
 
 **Step 3. Database search.** The search draws on Scopus and Web of Science and was run on 10 April 2026. The two databases are used together for their coverage across the disciplines this topic spans.
 
