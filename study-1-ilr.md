@@ -32,6 +32,8 @@ The search then proceeds through six steps.
 
 The review also draws on grey literature. The integrative tradition permits grey literature, and it is valuable here because government reports, audits, and official project records hold empirical detail on how temporal misalignment plays out in practice that peer-reviewed articles rarely capture, and their inclusion helps offset publication bias (Kutcher & LeBaron, 2022). Adams et al. (2017) note that grey literature varies in credibility by source expertise and editorial oversight, so Study 1 admits only sources with clear authority and identifiable provenance, and it keeps the English-only restriction applied to the database search (Stockemer & Wigginton, 2019).
 
+Grey literature is located through purposive searching rather than database querying. Two routes are used. The first is targeted searching of the websites and repositories of relevant authorities, such as national audit offices, parliamentary bodies, infrastructure and projects authorities, and international organisations. The second is reference-chasing from the peer-reviewed sample, which surfaces official documents that those articles cite. This purposive approach suits the integrative review, where the aim is to capture relevant empirical detail rather than to cover all available material (Adams et al., 2017).
+
 Grey literature is included against the following criteria:
 
 - **Source authority:** government agencies, international organisations, or established research institutes.
