@@ -53,7 +53,7 @@ SQ2 and SQ4 operate jointly but distinctly: SQ2 identifies temporal friction or 
 
 ### Screening Result (Pre-Screening)
 
-The search was conducted across Scopus and Web of Science, yielding 814 and 1,279 records respectively (2,093 total). Technical criteria excluded 188 records from Scopus and 415 from Web of Science. After removing duplicates, a pre-screening corpus of 481 records was established. Conceptual screening (SQ1–SQ5) against titles and abstracts then retained 77 sources for full-text assessment.
+The search was conducted across Scopus and Web of Science, yielding 814 and 1,279 records respectively (2,093 total). Technical criteria excluded 188 records from Scopus and 415 from Web of Science. After removing duplicates, a pre-screening corpus of 481 records was established. Conceptual screening (SQ1–SQ5) against titles and abstracts then retained 77 sources, which proceed to full-text analysis.
 
 ### Data Extraction and Synthesis Approach
 

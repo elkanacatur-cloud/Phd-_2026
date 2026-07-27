@@ -81,4 +81,4 @@ this topic requires.
 | Web of Science records | 1,279 |
 | Total identified | 2,093 |
 | Pre-screening corpus (after technical filtering + duplicate removal) | 481 |
-| Retained for full-text assessment (after SQ1–SQ5) | 77 |
+| Retained after conceptual screening (SQ1–SQ5), proceeding to full-text analysis | 77 |
