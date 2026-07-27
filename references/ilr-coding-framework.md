@@ -21,6 +21,6 @@
 
 ## Notes
 
-- The framework is applied during full-text analysis of the 37 papers forming the analytical sample.
+- The framework is applied during full-text analysis of the 77 sources forming the analytical sample (10 analysed so far; analysis of the remainder ongoing).
 - Coding is category-level, supporting concept integration rather than pattern cataloguing.
 - The framework is open to revision as coding proceeds (CC#5 in particular), consistent with the iterative logic of the integrative review (Cronin & George, 2023; Torraco, 2016b).
