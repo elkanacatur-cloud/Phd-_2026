@@ -47,3 +47,15 @@ Grey literature is included against the following criteria:
 Grey sources are coded with the same framework as the peer-reviewed sample (CC#1 to CC#8), and each inclusion decision is documented to keep the process transparent (Adams et al., 2017).
 
 The extraction and synthesis of these sources is set out in Section 3.3.3.
+
+### 3.3.3 Data Analysis
+
+The researcher analyses the retained literature in two stages, critical analysis and synthesis, following the integrative review method of Torraco (2016b). Critical analysis entails examining the main ideas and relationships in the literature and providing a critique of how the topic has been treated (Torraco, 2016b). Synthesis is the technique that integrates the critiqued literature into a new account of the topic (Torraco, 2016b). The two stages run iteratively rather than in a single pass, and the analysis centres on integrating concepts rather than cataloguing recurring patterns across studies.
+
+To support the critical analysis, the researcher developed a coding framework of eight dimensions (CC#1 to CC#8). Each dimension surfaces a different aspect of temporal misalignment: the temporal terminology a source uses, what is misaligned, the actors involved, the level at which the misalignment occurs, its causes, the responses to it, its outcomes, and what the source leaves unexplained. Coding proceeds at the level of these categories rather than by verbatim extraction, which keeps the analysis on how each source conceptualises misalignment rather than on its wording. The full coding framework is presented in Appendix [X].
+
+The two-stage method applies to each planned output of the review. In a given output, the researcher first critically analyses the coded literature to [define, map, or identify] the aspect of temporal misalignment at issue, examining the main ideas and the relationships among them and noting where accounts agree, diverge, or fall silent. The researcher then synthesises the critiqued material, drawing the coded dimensions together into an integrated account that forms the output for that section. This process is iterative: early observations are checked back against the coded sources and revised as later papers are analysed, so that the synthesis develops rather than settling at the first pass.
+
+The analysis is iterative in line with the abductive logic set out in the preceding sections. The researcher moves from category-level coding, through refinement of early observations, to higher-order observations about how temporal misalignment is conceptualised, returning to the sources as understanding develops (Cronin & George, 2023). From the sources taken to full-text assessment, 37 papers form the analytical sample. The researcher has analysed a first batch of 20 papers, and analysis of the remaining papers is ongoing, so the observations reported at this stage are preliminary.
+
+The output of this analysis is a set of sensitising concepts rather than a conceptual framework, consistent with the positioning established earlier. The sensitising concepts derived from this analysis inform the design of Study 2 and Study 3 (Sections 3.4 and 3.5).
